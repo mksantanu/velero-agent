@@ -68,1116 +68,780 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/index.js",
-        "hash": "7573692550096600273"
+        "file": "dist/libs/velero/src/models/download-request/v1DownloadRequest.d.ts",
+        "hash": "1066237482640047159"
       },
       {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "13534357699803822948"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/restore.models.d.ts",
-        "hash": "8097314580829806223"
-      },
-      {
-        "file": "kubernetes/chart/templates/NOTES.txt",
-        "hash": "60362771632518019"
-      },
-      {
-        "file": "kubernetes/chart/README.md",
-        "hash": "11783980975562686233"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/v1Schedule.js",
-        "hash": "5754148948252879810"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/v1BackupList.d.ts",
-        "hash": "17811197168837361039"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/logs/logs.models.js.map",
-        "hash": "6213749946766967450"
-      },
-      {
-        "file": "Dockerfile",
-        "hash": "7361783741023967851"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/index.js.map",
-        "hash": "12227956547197990126"
-      },
-      {
-        "file": "kubernetes/chart/templates/rolesbinding.yml",
-        "hash": "15997953713239852591"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/v1BackupList.js.map",
-        "hash": "11070525047844349270"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/list/list.models.js.map",
-        "hash": "4347328026540154188"
-      },
-      {
-        "file": "dist/libs/shared-types/src/regex/regex.js.map",
-        "hash": "4074173271833676622"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/actions.enum.js.map",
-        "hash": "6998968059160985756"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.js.map",
-        "hash": "5525319887516167414"
-      },
-      {
-        "file": "kubernetes/manifests/namespace.yml",
-        "hash": "11822705435048995028"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.js",
-        "hash": "2159389832162081063"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/685379667476634888",
-        "hash": "93473338985234620"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/auth/user.models.d.ts",
-        "hash": "9265729705006686136"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/restore.models.js.map",
-        "hash": "1709906434610073981"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/index.js.map",
-        "hash": "16915543002334114525"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/v1DownloadRequestList.js.map",
-        "hash": "2193668169965220737"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/17524176181820267374",
-        "hash": "13826612948093293957"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/settings/settings.models.js",
-        "hash": "16499908996206652595"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/restore.models.js",
-        "hash": "16208495041086928933"
-      },
-      {
-        "file": "kubernetes/manifests/serviceaccount.yml",
-        "hash": "14476797466900813913"
-      },
-      {
-        "file": "dist/apps/velero-agent/static/assets/index-BpPQwzMk.js",
-        "hash": "18343851285585132634"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/index.d.ts",
-        "hash": "8813692875935229451"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/index.js",
-        "hash": "11305702046278893151"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/stats/stats.models.d.ts",
-        "hash": "7616254010642840293"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/v1DownloadRequest.js.map",
-        "hash": "16826178887136332706"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/logs.enum.d.ts",
-        "hash": "9381791281230799715"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.js",
-        "hash": "12937472244608512932"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/logs/logs.models.js",
-        "hash": "17736028040982319402"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/form.models.js.map",
-        "hash": "11763563697111215528"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/index.js.map",
-        "hash": "9306367502334333584"
-      },
-      {
-        "file": "dist/libs/velero/src/constants.js",
-        "hash": "3021810994041719239"
-      },
-      {
-        "file": "tmp/libs/velero/build/tsconfig.generated.ec1d9a6e-dcd4-46ba-93cc-dd89a16b366d.json",
-        "hash": "11428221429393447745"
-      },
-      {
-        "file": ".package.json.swp",
-        "hash": "12811656497086496417"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/v1RestoreList.d.ts",
-        "hash": "10206729497981056385"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/v1ServerStatusRequestList.js",
-        "hash": "10920430867962217014"
-      },
-      {
-        "file": "kubernetes/chart/values.yaml",
-        "hash": "6824226194227927884"
-      },
-      {
-        "file": "kubernetes/manifests/deployment.yml",
-        "hash": "8623168858671408762"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/filters.enum.d.ts",
-        "hash": "25779026163941793"
-      },
-      {
-        "file": "banner.png",
-        "hash": "7291484173869883137"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/v1Backup.js.map",
-        "hash": "9051885098635490746"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/search/search.models.js",
-        "hash": "15879947725606716023"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/sort.enum.js",
-        "hash": "9325996590779400195"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/index.js",
-        "hash": "11305702046278893151"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/index.js.map",
-        "hash": "17470562830321733011"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/k8s/k8s.models.js.map",
-        "hash": "5820404784158121301"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/v1DownloadRequest.js",
-        "hash": "11325944473065466430"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/logs.enum.d.ts",
-        "hash": "9381791281230799715"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/shared/index.js",
-        "hash": "137885926072484227"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/auth/user.models.d.ts",
-        "hash": "9265729705006686136"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/17244391774633971051",
-        "hash": "13981451097164524138"
-      },
-      {
-        "file": "dist/apps/velero-agent/package-lock.json",
-        "hash": "8918435192270785517"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/filters.enum.js",
-        "hash": "15284656997535862471"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.js.map",
-        "hash": "6978621294980829820"
-      },
-      {
-        "file": "kubernetes/manifests/rolesbinding.yml",
-        "hash": "9091137264938859700"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/index.d.ts",
-        "hash": "2072253205133525438"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.js",
-        "hash": "11271776771142236038"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/auth/user.models.js",
-        "hash": "3092679108475383311"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/config/config.models.js",
-        "hash": "202569427779907484"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/1557954642953580808",
-        "hash": "7339542518939790845"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/k8s/k8s.models.d.ts",
-        "hash": "12725110308708912538"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/auth/user.models.js.map",
-        "hash": "6646242306262796049"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/v2alpha1DataUpload.js",
-        "hash": "12980359669051916225"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "6927346172246089124"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/index.d.ts",
-        "hash": "13406450172290863732"
-      },
-      {
-        "file": "dist/libs/velero/src/models/shared/shared.js.map",
-        "hash": "13279200388670139411"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.js",
-        "hash": "9021317634168109049"
-      },
-      {
-        "file": "dist/apps/velero-agent/static/assets/restic-BnAQFDVJ.png",
-        "hash": "6780624798721573223"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.d.ts",
-        "hash": "11225941758433901792"
-      },
-      {
-        "file": "dist/libs/shared-types/src/regex/index.d.ts",
-        "hash": "2868720171598694950"
-      },
-      {
-        "file": "dist/apps/velero-agent/static/assets/favicon-DT5H2DNH.ico",
-        "hash": "1503779189109417171"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/v1ServerStatusRequest.js",
-        "hash": "14195022720861125991"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/index.js.map",
-        "hash": "1559267850593043905"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/index.js",
-        "hash": "3080245242769176861"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/index.js",
-        "hash": "9290367151457045876"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/settings/settings.models.d.ts",
-        "hash": "4233249057919311725"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/regex/index.d.ts",
-        "hash": "2868720171598694950"
-      },
-      {
-        "file": ".nx/workspace-data/source-maps.json",
-        "hash": "6204793369019494714"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/README.md",
-        "hash": "16585691997700225738"
-      },
-      {
-        "file": "kubernetes/chart/templates/secrets.yaml",
-        "hash": "1341099546566307783"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/backup.models.d.ts",
-        "hash": "8473473860608969856"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/actions.enum.js.map",
-        "hash": "6998968059160985756"
-      },
-      {
-        "file": "dist/libs/shared-types/src/regex/index.js",
-        "hash": "914390158696436697"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/list/list.models.js",
-        "hash": "9795131906631714636"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/auth/user.models.js",
-        "hash": "3092679108475383311"
-      },
-      {
-        "file": "kubernetes/manifests/clusterrole.yaml",
-        "hash": "13809014933408326775"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/v1Backup.d.ts",
-        "hash": "16872483996507652344"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.js.map",
-        "hash": "14446479817898852775"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/config/config.models.js.map",
-        "hash": "6261535215222320476"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/restore.models.js",
-        "hash": "16208495041086928933"
-      },
-      {
-        "file": "dist/libs/velero/src/models/shared/index.js",
-        "hash": "137885926072484227"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/package.json",
-        "hash": "17564933495817548554"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/index.js.map",
-        "hash": "9306367502334333584"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/restore.models.js.map",
-        "hash": "1709906434610073981"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/v1BackupRepositoryList.js.map",
-        "hash": "8122891222060160202"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/v2alpha1DataUploadList.js.map",
-        "hash": "18273488055754562279"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/v1BackupRepository.js.map",
-        "hash": "4687087996220148791"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/v1RestoreList.js",
-        "hash": "12017608961542830915"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/stats/stats.models.js",
-        "hash": "14993793447065982176"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/index.js.map",
-        "hash": "653015666321558842"
-      },
-      {
-        "file": "kubernetes/chart/templates/clusterrole.yaml",
-        "hash": "13339450919744535687"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/backup.models.js.map",
-        "hash": "18048477428622328877"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/v2alpha1DataDownloadList.js",
-        "hash": "16587647654435436649"
-      },
-      {
-        "file": "dist/libs/velero/src/constants.d.ts",
-        "hash": "6534287191157175327"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.d.ts",
-        "hash": "18074358584812607336"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/index.js.map",
-        "hash": "6364994847480423257"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/index.js.map",
-        "hash": "7108737104044575934"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/index.js",
-        "hash": "17272750064379209104"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/filters.enum.js",
-        "hash": "15284656997535862471"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/regex/regex.js.map",
-        "hash": "4074173271833676622"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/index.d.ts",
-        "hash": "17355652300890651818"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/index.d.ts",
-        "hash": "9048404504623506514"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/v1BackupRepository.d.ts",
-        "hash": "14252691541594962862"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/constants.js.map",
-        "hash": "6394046932138210244"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/search/search.models.d.ts",
-        "hash": "9099235022392438190"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/v1Backup.js",
-        "hash": "6163118119536777311"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/search/search.models.d.ts",
-        "hash": "9099235022392438190"
-      },
-      {
-        "file": "kubernetes/chart/templates/service.yaml",
-        "hash": "8212193556390978384"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.js",
-        "hash": "7935087880451027638"
-      },
-      {
-        "file": "dist/libs/velero/src/models/shared/index.js.map",
-        "hash": "34066310833328866"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/index.js.map",
-        "hash": "8044772020308140967"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/form.models.d.ts",
-        "hash": "14414599691597249106"
-      },
-      {
-        "file": "kubernetes/chart/templates/tests/test-connection.yaml",
-        "hash": "13824583947577665704"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/index.js",
-        "hash": "2310127603935155927"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/7083555806985517783",
-        "hash": "13857067009327778964"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.js",
-        "hash": "12945841378850593678"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/v1BackupRepositoryList.d.ts",
-        "hash": "4841623889371015638"
-      },
-      {
-        "file": "kubernetes/chart/templates/ingress.yaml",
-        "hash": "9205082780672944454"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/v1Restore.js",
-        "hash": "573532257748213813"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/v1Restore.d.ts",
-        "hash": "194693879158027202"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.js.map",
-        "hash": "1285474196349103411"
-      },
-      {
-        "file": "dist/libs/velero/src/models/shared/index.d.ts",
-        "hash": "2432669552124232639"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.js.map",
-        "hash": "4486307967437017244"
-      },
-      {
-        "file": ".nx/workspace-data/bd79e6f1fa6047da9e5226c09d9d5686.db-wal",
-        "hash": "15690412101080494864"
-      },
-      {
-        "file": "kubernetes/chart/templates/hpa.yaml",
-        "hash": "17271400461490820086"
-      },
-      {
-        "file": "kubernetes/manifests/service.yaml",
-        "hash": "17561870490343795040"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/config/config.models.js.map",
-        "hash": "6261535215222320476"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/v1ServerStatusRequestList.d.ts",
-        "hash": "10038229702092944456"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/list/list.models.js",
-        "hash": "9795131906631714636"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/v2alpha1DataDownload.js",
-        "hash": "11355462384385575892"
-      },
-      {
-        "file": "dist/libs/velero/src/models/shared/shared.js",
-        "hash": "10271559090061143669"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/index.d.ts",
-        "hash": "3941223725317472933"
-      },
-      {
-        "file": "node_modules/.vite/apps/velero-agent/deps_temp_5111e37e/package.json",
-        "hash": "8630294688235076505"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.js.map",
-        "hash": "2091813440533191235"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/form.models.js",
-        "hash": "9906103873538057368"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/search/search.models.js",
-        "hash": "15879947725606716023"
-      },
-      {
-        "file": "dist/libs/shared-types/src/regex/regex.js",
-        "hash": "4467507803970784153"
-      },
-      {
-        "file": "dist/libs/shared-types/src/index.js.map",
-        "hash": "1302190977236512842"
-      },
-      {
-        "file": ".nx/workspace-data/file-map.json",
-        "hash": "4544840933298953795"
-      },
-      {
-        "file": "dist/libs/velero/src/constants.js.map",
-        "hash": "6394046932138210244"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/v2alpha1DataUpload.js.map",
-        "hash": "18108505286361330239"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/v1BackupRepository.js",
-        "hash": "16950716363622149681"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/v2alpha1DataUploadList.js",
-        "hash": "4020038474696295711"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/index.d.ts",
-        "hash": "1816352688334040995"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/index.d.ts",
-        "hash": "13166248311733072571"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/backup.models.js",
-        "hash": "624109453310089703"
-      },
-      {
-        "file": ".nx/workspace-data/bd79e6f1fa6047da9e5226c09d9d5686.db-shm",
-        "hash": "4743614673968514770"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/sort.enum.js.map",
-        "hash": "887688848227959809"
+        "file": "dist/libs/velero/src/models/restore/v1Restore.js.map",
+        "hash": "9068808471585124187"
       },
       {
         "file": "kubernetes/manifests/clusterrolebinding.yml",
         "hash": "15314977298909223413"
       },
       {
-        "file": "dist/libs/shared-types/src/regex/index.js.map",
-        "hash": "3231359345185471110"
+        "file": "dist/libs/velero/src/models/download-request/v1DownloadRequestList.js",
+        "hash": "10885090023352328019"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/search/search.models.d.ts",
+        "hash": "9099235022392438190"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.d.ts",
+        "hash": "17953281719743338776"
+      },
+      {
+        "file": "dist/libs/shared-types/src/regex/regex.js.map",
+        "hash": "4074173271833676622"
       },
       {
         "file": "dist/libs/shared-types/src/models/form/backup.models.js.map",
         "hash": "18048477428622328877"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/index.js.map",
-        "hash": "15902974578413446854"
+        "file": "dist/libs/velero/src/models/backup-repository/index.d.ts",
+        "hash": "9048404504623506514"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.d.ts",
-        "hash": "12723405670875304418"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/v1Schedule.d.ts",
-        "hash": "2608981474930754718"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/regex/regex.d.ts",
-        "hash": "3565040670511462042"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/index.js",
-        "hash": "16702073073087098944"
-      },
-      {
-        "file": "kubernetes/chart/templates/serviceaccount.yaml",
-        "hash": "4360267865570318239"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/v1BackupList.js",
-        "hash": "16790791089335777651"
-      },
-      {
-        "file": "eslint.config.mjs",
-        "hash": "6389953658763324080"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/shared/shared.js.map",
-        "hash": "13279200388670139411"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/stats/stats.models.d.ts",
-        "hash": "7616254010642840293"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/sort.enum.js.map",
-        "hash": "887688848227959809"
-      },
-      {
-        "file": "kubernetes/chart/Chart.yaml",
-        "hash": "7249209667070412372"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/index.js.map",
-        "hash": "1302190977236512842"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/174716809414342506",
-        "hash": "14363783653360632952"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.js.map",
-        "hash": "6882654028809272290"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/v1ScheduleList.js",
-        "hash": "4243522781955243855"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/index.js",
-        "hash": "15036303493958631960"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.d.ts",
-        "hash": "16131341002211508157"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/v1ServerStatusRequest.d.ts",
-        "hash": "14258438544948946582"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.js",
-        "hash": "13686491500297001708"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.js.map",
-        "hash": "5638286159875693791"
-      },
-      {
-        "file": "tmp/libs/shared-types/build/tsconfig.generated.9c02b5fd-4248-407b-9611-501e678a60fb.json",
-        "hash": "9923131455036810692"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/index.d.ts",
-        "hash": "3782324908465070375"
-      },
-      {
-        "file": ".nx/workspace-data/bd79e6f1fa6047da9e5226c09d9d5686.db",
-        "hash": "6240709564311096908"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/form.models.js",
-        "hash": "9906103873538057368"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/README.md",
-        "hash": "13984268598373994613"
-      },
-      {
-        "file": "policies.csv",
-        "hash": "3914814912768951698"
-      },
-      {
-        "file": "dist/apps/velero-agent/package.json",
-        "hash": "16865547894543438"
-      },
-      {
-        "file": "dist/apps/velero-agent/main.js",
-        "hash": "12372244248070165304"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup/index.d.ts",
-        "hash": "556125465563030710"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/sort.enum.d.ts",
-        "hash": "1113738156505511323"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/index.js",
-        "hash": "12267554548370931288"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/index.d.ts",
-        "hash": "15805357057692027324"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/constants.d.ts",
-        "hash": "6534287191157175327"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.d.ts",
-        "hash": "17953281719743338776"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/index.js",
-        "hash": "14330464861577735133"
-      },
-      {
-        "file": "dist/apps/velero-agent/static/assets/index-CPcRvpFl.css",
-        "hash": "4612305320342477561"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-repository/v1BackupRepositoryList.js",
-        "hash": "17431792921418409669"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/sort.enum.js",
-        "hash": "9325996590779400195"
-      },
-      {
-        "file": "dist/libs/shared-types/src/index.js",
-        "hash": "5536265436235290438"
-      },
-      {
-        "file": "README.md",
-        "hash": "10342278771915585933"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/index.js",
-        "hash": "8626152595802998468"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/index.js",
-        "hash": "17207340538588383873"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/k8s/k8s.models.js",
-        "hash": "9649111097839682231"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.d.ts",
-        "hash": "16091206017001815584"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/stats/stats.models.js",
-        "hash": "14993793447065982176"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/v2alpha1DataUploadList.d.ts",
-        "hash": "6182498769656614698"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/logs.enum.js",
-        "hash": "12311473768747102311"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/index.js.map",
+        "file": "dist/libs/velero/src/models/pod-volume-restore/index.js.map",
         "hash": "6028037369537023497"
-      },
-      {
-        "file": "kubernetes/manifests/roles.yml",
-        "hash": "6790770474134338561"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/logs.enum.js.map",
-        "hash": "5188041546903001326"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/index.js.map",
-        "hash": "1648437795729042305"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/v2alpha1DataDownload.d.ts",
-        "hash": "6072472733338346078"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/config/config.models.d.ts",
-        "hash": "2154408695985057187"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/actions.enum.js",
-        "hash": "5683048960576166955"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.js",
-        "hash": "7154177811781635907"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.js.map",
-        "hash": "10297558237380187794"
-      },
-      {
-        "file": "kubernetes/chart/.helmignore",
-        "hash": "9835375496508434033"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/backup.models.js",
-        "hash": "624109453310089703"
-      },
-      {
-        "file": "kubernetes/chart/templates/deployment.yaml",
-        "hash": "15036962043644980402"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/regex/regex.js",
-        "hash": "4467507803970784153"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/index.d.ts",
-        "hash": "3188781848257100071"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/v1ScheduleList.d.ts",
-        "hash": "14007416338563832816"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/actions.enum.js",
-        "hash": "5683048960576166955"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/regex/index.js.map",
-        "hash": "3231359345185471110"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/index.js",
-        "hash": "14306837180453866424"
-      },
-      {
-        "file": "kubernetes/chart/templates/roles.yml",
-        "hash": "11528380703531922507"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/search/search.models.js.map",
-        "hash": "16298560024274382636"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/config/config.models.js",
-        "hash": "202569427779907484"
-      },
-      {
-        "file": "dist/apps/velero-agent/static/index.html",
-        "hash": "14080068544745578827"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/v2alpha1DataDownloadList.js.map",
-        "hash": "4695572500944117431"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/logs.enum.js.map",
-        "hash": "5188041546903001326"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.d.ts",
-        "hash": "7594849867078670954"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/auth/user.models.js.map",
-        "hash": "6646242306262796049"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/list/list.models.d.ts",
-        "hash": "16963887184808354460"
       },
       {
         "file": "dist/libs/shared-types/src/models/stats/stats.models.js.map",
         "hash": "18342908555480598346"
       },
       {
-        "file": "dist/libs/shared-types/src/models/list/list.models.js.map",
-        "hash": "4347328026540154188"
+        "file": "dist/libs/velero/src/models/pod-volume-backup/index.d.ts",
+        "hash": "17355652300890651818"
       },
       {
-        "file": "nx.json",
-        "hash": "15085874894785507506"
+        "file": "dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.js.map",
+        "hash": "6978621294980829820"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/constants.js",
+        "file": "dist/libs/velero/src/models/schedule/index.d.ts",
+        "hash": "4189313459229436305"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/index.js",
+        "hash": "2310127603935155927"
+      },
+      {
+        "file": "package.json",
+        "hash": "11222917018754708962"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/logs.enum.js.map",
+        "hash": "5188041546903001326"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/index.js.map",
+        "hash": "653015666321558842"
+      },
+      {
+        "file": "dist/libs/velero/src/models/shared/shared.d.ts",
+        "hash": "1731604132560302158"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.js.map",
+        "hash": "5638286159875693791"
+      },
+      {
+        "file": "dist/apps/velero-agent/package-lock.json",
+        "hash": "8918435192270785517"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/index.js",
+        "hash": "15036303493958631960"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/v1Schedule.js",
+        "hash": "5754148948252879810"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/index.js",
+        "hash": "17207340538588383873"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/v2alpha1DataDownload.js.map",
+        "hash": "9348063683277105257"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/v1DownloadRequest.js.map",
+        "hash": "16826178887136332706"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.js.map",
+        "hash": "5525319887516167414"
+      },
+      {
+        "file": "dist/libs/velero/src/models/shared/index.js.map",
+        "hash": "34066310833328866"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/v1ScheduleList.d.ts",
+        "hash": "14007416338563832816"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.d.ts",
+        "hash": "12723405670875304418"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/config/config.models.js.map",
+        "hash": "6261535215222320476"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/actions.enum.d.ts",
+        "hash": "8126764398398451587"
+      },
+      {
+        "file": "kubernetes/chart/templates/hpa.yaml",
+        "hash": "17271400461490820086"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/v1BackupRepositoryList.d.ts",
+        "hash": "4841623889371015638"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/index.js.map",
+        "hash": "12552695881395986602"
+      },
+      {
+        "file": "kubernetes/manifests/roles.yml",
+        "hash": "6790770474134338561"
+      },
+      {
+        "file": "kubernetes/chart/templates/configmaps.yaml",
+        "hash": "3022221351164132651"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/v1BackupRepositoryList.js.map",
+        "hash": "8122891222060160202"
+      },
+      {
+        "file": "kubernetes/manifests/rolesbinding.yml",
+        "hash": "9091137264938859700"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.js.map",
+        "hash": "150754152991059571"
+      },
+      {
+        "file": "kubernetes/chart/.helmignore",
+        "hash": "9835375496508434033"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/index.js",
+        "hash": "14330464861577735133"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/v1ScheduleList.js.map",
+        "hash": "1578938511710138823"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/settings/settings.models.js.map",
+        "hash": "17173716424836652279"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/v1ServerStatusRequest.js",
+        "hash": "14195022720861125991"
+      },
+      {
+        "file": "Dockerfile",
+        "hash": "7361783741023967851"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/auth/user.models.js",
+        "hash": "3092679108475383311"
+      },
+      {
+        "file": "kubernetes/chart/templates/NOTES.txt",
+        "hash": "60362771632518019"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/k8s/k8s.models.js.map",
+        "hash": "5820404784158121301"
+      },
+      {
+        "file": "dist/libs/velero/src/constants.js",
         "hash": "3021810994041719239"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/v1Restore.js.map",
-        "hash": "9068808471585124187"
+        "file": "dist/libs/velero/src/models/data-upload/v2alpha1DataUpload.js",
+        "hash": "12980359669051916225"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/index.js",
+        "hash": "9037224014066733676"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/logs/logs.models.js",
+        "hash": "17736028040982319402"
+      },
+      {
+        "file": "dist/libs/velero/src/models/shared/shared.js",
+        "hash": "10271559090061143669"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/index.js",
+        "hash": "14306837180453866424"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/index.js",
+        "hash": "3080245242769176861"
+      },
+      {
+        "file": "dist/libs/shared-types/src/regex/regex.js",
+        "hash": "4467507803970784153"
+      },
+      {
+        "file": "dist/apps/velero-agent/main.js",
+        "hash": "3917742682785228999"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/index.js.map",
+        "hash": "15902974578413446854"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/k8s/k8s.models.js",
+        "hash": "9649111097839682231"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/v1Restore.d.ts",
+        "hash": "194693879158027202"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/logs/logs.models.js.map",
+        "hash": "6213749946766967450"
+      },
+      {
+        "file": "banner.png",
+        "hash": "7291484173869883137"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.js",
+        "hash": "11271776771142236038"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/index.js",
+        "hash": "12267554548370931288"
+      },
+      {
+        "file": "dist/apps/velero-agent/static/assets/favicon-DT5H2DNH.ico",
+        "hash": "1503779189109417171"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.js.map",
+        "hash": "1285474196349103411"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.js.map",
+        "hash": "10297558237380187794"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/v1DownloadRequestList.js.map",
+        "hash": "2193668169965220737"
+      },
+      {
+        "file": "dist/libs/velero/src/index.js",
+        "hash": "8626152595802998468"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/form.models.d.ts",
+        "hash": "14414599691597249106"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "6389953658763324080"
+      },
+      {
+        "file": "dist/apps/velero-agent/static/assets/restic-BnAQFDVJ.png",
+        "hash": "6780624798721573223"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/index.js.map",
+        "hash": "15166948352003680754"
+      },
+      {
+        "file": "kubernetes/manifests/serviceaccount.yml",
+        "hash": "14476797466900813913"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/v1ServerStatusRequestList.d.ts",
+        "hash": "10038229702092944456"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/form.models.js",
+        "hash": "9906103873538057368"
+      },
+      {
+        "file": "kubernetes/chart/templates/deployment.yaml",
+        "hash": "15036962043644980402"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/v2alpha1DataDownload.d.ts",
+        "hash": "6072472733338346078"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/index.js",
+        "hash": "7573692550096600273"
+      },
+      {
+        "file": "dist/libs/shared-types/src/index.js",
+        "hash": "5536265436235290438"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/actions.enum.js",
+        "hash": "5683048960576166955"
+      },
+      {
+        "file": "dist/apps/velero-agent/static/index.html",
+        "hash": "14080068544745578827"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/index.js",
+        "hash": "11305702046278893151"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/v2alpha1DataDownloadList.d.ts",
+        "hash": "12829057142034974253"
+      },
+      {
+        "file": "kubernetes/chart/templates/tests/test-connection.yaml",
+        "hash": "13824583947577665704"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/index.d.ts",
+        "hash": "4592941885572883557"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/backup.models.js",
+        "hash": "624109453310089703"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.d.ts",
+        "hash": "16091206017001815584"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/index.d.ts",
+        "hash": "8813692875935229451"
+      },
+      {
+        "file": "dist/libs/shared-types/package.json",
+        "hash": "10937700057098841404"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/index.js.map",
+        "hash": "6585327949847432349"
       },
       {
         "file": "velero-agent.env",
         "hash": "11232264228093353203"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/index.js",
-        "hash": "9037224014066733676"
-      },
-      {
-        "file": ".nx/workspace-data/d/daemon.log",
-        "hash": "5416938723506468357"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.js.map",
-        "hash": "150754152991059571"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/list/list.models.d.ts",
-        "hash": "16963887184808354460"
-      },
-      {
-        "file": "dist/apps/velero-agent/static/assets/velero-qpj7eBlr.svg",
-        "hash": "9718022556480349738"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.d.ts",
-        "hash": "2233570213061600964"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/index.js.map",
-        "hash": "15166948352003680754"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/sort.enum.d.ts",
-        "hash": "1113738156505511323"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/index.js.map",
-        "hash": "12552695881395986602"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.d.ts",
-        "hash": "1166703869009385495"
-      },
-      {
-        "file": "kubernetes/chart/templates/clusterrolebinding.yml",
-        "hash": "2745686315762088430"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/v1DownloadRequestList.js",
-        "hash": "10885090023352328019"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/v1DownloadRequest.d.ts",
-        "hash": "1066237482640047159"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/settings/settings.models.js",
-        "hash": "16499908996206652595"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/restore.models.d.ts",
-        "hash": "8097314580829806223"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/logs/logs.models.d.ts",
-        "hash": "5800265330917482540"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/restore/v1RestoreList.js.map",
-        "hash": "15382674331100821710"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.js",
-        "hash": "4685350879171182357"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/v1ServerStatusRequestList.js.map",
-        "hash": "7949550465099182231"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/v1Schedule.js.map",
-        "hash": "1349132126738365648"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "1244714441814167806"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/filters.enum.js.map",
-        "hash": "7347857332068414638"
+        "file": "dist/libs/shared-types/src/models/auth/user.models.js.map",
+        "hash": "6646242306262796049"
       },
       {
         "file": "dist/libs/shared-types/src/enums/index.d.ts",
         "hash": "13406450172290863732"
       },
       {
+        "file": "kubernetes/chart/templates/rolesbinding.yml",
+        "hash": "15997953713239852591"
+      },
+      {
+        "file": "kubernetes/chart/templates/clusterrole.yaml",
+        "hash": "13339450919744535687"
+      },
+      {
+        "file": "dist/libs/velero/README.md",
+        "hash": "16585691997700225738"
+      },
+      {
+        "file": "dist/libs/velero/src/models/shared/index.d.ts",
+        "hash": "2432669552124232639"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/index.d.ts",
+        "hash": "16457808994588292472"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.js",
+        "hash": "2159389832162081063"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/filters.enum.d.ts",
+        "hash": "25779026163941793"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/v2alpha1DataUploadList.js",
+        "hash": "4020038474696295711"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/v2alpha1DataUpload.d.ts",
+        "hash": "13277312255097155220"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.js",
+        "hash": "7935087880451027638"
+      },
+      {
+        "file": "dist/libs/velero/src/models/shared/index.js",
+        "hash": "137885926072484227"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/list/list.models.js",
+        "hash": "9795131906631714636"
+      },
+      {
+        "file": "dist/apps/velero-agent/static/assets/velero-qpj7eBlr.svg",
+        "hash": "9718022556480349738"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.d.ts",
+        "hash": "17523318600865632451"
+      },
+      {
+        "file": "dist/libs/velero/src/index.d.ts",
+        "hash": "3782324908465070375"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.d.ts",
+        "hash": "16131341002211508157"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/v1DownloadRequest.js",
+        "hash": "11325944473065466430"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.js.map",
+        "hash": "14446479817898852775"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/settings/settings.models.js",
+        "hash": "16499908996206652595"
+      },
+      {
+        "file": "kubernetes/manifests/clusterrole.yaml",
+        "hash": "13809014933408326775"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/stats/stats.models.js",
+        "hash": "14993793447065982176"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/v2alpha1DataDownloadList.js.map",
+        "hash": "4695572500944117431"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/index.d.ts",
+        "hash": "3188781848257100071"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/config/config.models.js",
+        "hash": "202569427779907484"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/list/list.models.js.map",
+        "hash": "4347328026540154188"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/logs.enum.d.ts",
+        "hash": "9381791281230799715"
+      },
+      {
+        "file": "dist/libs/velero/src/models/shared/shared.js.map",
+        "hash": "13279200388670139411"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/v1Schedule.d.ts",
+        "hash": "2608981474930754718"
+      },
+      {
+        "file": "images/screenshots.gif",
+        "hash": "11486514260552819955"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/v1ScheduleList.js",
+        "hash": "4243522781955243855"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/logs.enum.js",
+        "hash": "12311473768747102311"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.js.map",
+        "hash": "6882654028809272290"
+      },
+      {
+        "file": "dist/libs/shared-types/src/index.d.ts",
+        "hash": "13166248311733072571"
+      },
+      {
+        "file": "kubernetes/chart/templates/roles.yml",
+        "hash": "11528380703531922507"
+      },
+      {
+        "file": "dist/apps/velero-agent/static/assets/index-BpPQwzMk.js",
+        "hash": "18343851285585132634"
+      },
+      {
+        "file": "kubernetes/manifests/configmap.yml",
+        "hash": "4400804177379563601"
+      },
+      {
+        "file": "kubernetes/chart/Chart.yaml",
+        "hash": "7249209667070412372"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/index.d.ts",
+        "hash": "3941223725317472933"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/index.js",
+        "hash": "9290367151457045876"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/filters.enum.js",
+        "hash": "15284656997535862471"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/v1ServerStatusRequest.js.map",
+        "hash": "5488772290016716370"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/restore.models.d.ts",
+        "hash": "8097314580829806223"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/index.d.ts",
+        "hash": "1816352688334040995"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.js",
+        "hash": "12937472244608512932"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/index.js.map",
+        "hash": "16915543002334114525"
+      },
+      {
+        "file": "dist/libs/velero/src/constants.js.map",
+        "hash": "6394046932138210244"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/logs/logs.models.d.ts",
+        "hash": "5800265330917482540"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/v1BackupRepositoryList.js",
+        "hash": "17431792921418409669"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/auth/user.models.d.ts",
+        "hash": "9265729705006686136"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/index.js.map",
+        "hash": "1648437795729042305"
+      },
+      {
+        "file": "dist/libs/velero/src/constants.d.ts",
+        "hash": "6534287191157175327"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/index.js.map",
+        "hash": "1559267850593043905"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/v1Backup.js",
+        "hash": "6163118119536777311"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.js.map",
+        "hash": "4486307967437017244"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/index.js",
+        "hash": "16702073073087098944"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/k8s/k8s.models.d.ts",
+        "hash": "12725110308708912538"
+      },
+      {
+        "file": "dist/apps/velero-agent/package.json",
+        "hash": "16865547894543438"
+      },
+      {
+        "file": "kubernetes/chart/templates/secrets.yaml",
+        "hash": "1341099546566307783"
+      },
+      {
         "file": "dist/libs/shared-types/src/models/form/backup.models.d.ts",
         "hash": "8473473860608969856"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.js",
-        "hash": "1260427307440992387"
+        "file": "dist/libs/shared-types/src/enums/filters.enum.js.map",
+        "hash": "7347857332068414638"
       },
       {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/settings/settings.models.js.map",
-        "hash": "17173716424836652279"
+        "file": "kubernetes/manifests/service.yaml",
+        "hash": "17561870490343795040"
       },
       {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/actions.enum.d.ts",
-        "hash": "8126764398398451587"
+        "file": "kubernetes/chart/templates/serviceaccount.yaml",
+        "hash": "4360267865570318239"
       },
       {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/regex/index.js",
+        "file": "dist/libs/velero/src/models/backup-repository/v1BackupRepository.js.map",
+        "hash": "4687087996220148791"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/v1BackupList.js.map",
+        "hash": "11070525047844349270"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/v1BackupList.js",
+        "hash": "16790791089335777651"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/v1ServerStatusRequestList.js",
+        "hash": "10920430867962217014"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/v1BackupRepository.js",
+        "hash": "16950716363622149681"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.d.ts",
+        "hash": "1166703869009385495"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/v1RestoreList.d.ts",
+        "hash": "10206729497981056385"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/restore.models.js.map",
+        "hash": "1709906434610073981"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/v1RestoreList.js.map",
+        "hash": "15382674331100821710"
+      },
+      {
+        "file": "kubernetes/chart/values.yaml",
+        "hash": "6824226194227927884"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/v1RestoreList.js",
+        "hash": "12017608961542830915"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/index.d.ts",
+        "hash": "2072253205133525438"
+      },
+      {
+        "file": "dist/libs/shared-types/src/index.js.map",
+        "hash": "1302190977236512842"
+      },
+      {
+        "file": "dist/libs/shared-types/README.md",
+        "hash": "13984268598373994613"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.js",
+        "hash": "13686491500297001708"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "6927346172246089124"
+      },
+      {
+        "file": "README.md",
+        "hash": "10342278771915585933"
+      },
+      {
+        "file": "kubernetes/chart/templates/_helpers.tpl",
+        "hash": "147621409672782397"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/index.js.map",
+        "hash": "7108737104044575934"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/v1ServerStatusRequestList.js.map",
+        "hash": "7949550465099182231"
+      },
+      {
+        "file": "dist/libs/shared-types/src/regex/index.d.ts",
+        "hash": "2868720171598694950"
+      },
+      {
+        "file": "kubernetes/chart/templates/service.yaml",
+        "hash": "8212193556390978384"
+      },
+      {
+        "file": ".husky/pre-commit",
+        "hash": "7304676127415345540"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/index.d.ts",
+        "hash": "15805357057692027324"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/index.js",
+        "hash": "14606343106810490598"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/v1Schedule.js.map",
+        "hash": "1349132126738365648"
+      },
+      {
+        "file": "dist/libs/shared-types/src/regex/index.js",
         "hash": "914390158696436697"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/shared/shared.d.ts",
-        "hash": "1731604132560302158"
+        "file": "dist/apps/velero-agent/static/assets/index-CPcRvpFl.css",
+        "hash": "4612305320342477561"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/v2alpha1DataUpload.d.ts",
-        "hash": "13277312255097155220"
+        "file": "dist/libs/velero/src/models/data-download/index.js.map",
+        "hash": "17470562830321733011"
+      },
+      {
+        "file": "dist/libs/velero/src/models/server-status-request/v1ServerStatusRequest.d.ts",
+        "hash": "14258438544948946582"
+      },
+      {
+        "file": "nx.json",
+        "hash": "15085874894785507506"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.d.ts",
+        "hash": "11225941758433901792"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/v1BackupList.d.ts",
+        "hash": "17811197168837361039"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/v2alpha1DataDownload.js",
+        "hash": "11355462384385575892"
+      },
+      {
+        "file": "dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.d.ts",
+        "hash": "2233570213061600964"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.js.map",
+        "hash": "2091813440533191235"
+      },
+      {
+        "file": "policies.csv",
+        "hash": "3914814912768951698"
       },
       {
         "file": "dist/libs/shared-types/src/regex/regex.d.ts",
@@ -1188,1395 +852,179 @@
         "hash": "3494843969422251966"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/download-request/v1DownloadRequestList.d.ts",
-        "hash": "16104494181495330935"
+        "file": "dist/libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.js",
+        "hash": "7154177811781635907"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-upload/index.js",
-        "hash": "14606343106810490598"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/stats/stats.models.js.map",
-        "hash": "18342908555480598346"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/v1ScheduleList.js.map",
-        "hash": "1578938511710138823"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/enums/filters.enum.d.ts",
-        "hash": "25779026163941793"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/shared/shared.js",
-        "hash": "10271559090061143669"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/package.json",
-        "hash": "10937700057098841404"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/index.d.ts",
-        "hash": "4189313459229436305"
-      },
-      {
-        "file": ".nx/workspace-data/eslint-17004402471288307501.hash",
-        "hash": "17331131023570578201"
-      },
-      {
-        "file": ".nx/cache/run.json",
-        "hash": "363920391728308276"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/settings/settings.models.d.ts",
+        "file": "dist/libs/shared-types/src/models/settings/settings.models.d.ts",
         "hash": "4233249057919311725"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.d.ts",
-        "hash": "17523318600865632451"
+        "file": "dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.js",
+        "hash": "1260427307440992387"
       },
       {
-        "file": "images/screenshots.gif",
-        "hash": "11486514260552819955"
+        "file": "dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.d.ts",
+        "hash": "7594849867078670954"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/shared/index.d.ts",
-        "hash": "2432669552124232639"
+        "file": "dist/libs/shared-types/src/regex/index.js.map",
+        "hash": "3231359345185471110"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/delete-backup-request/index.d.ts",
-        "hash": "3896011027542094410"
-      },
-      {
-        "file": "kubernetes/manifests/configmap.yml",
-        "hash": "4400804177379563601"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/form/form.models.js.map",
-        "hash": "11763563697111215528"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/shared/index.js.map",
-        "hash": "34066310833328866"
-      },
-      {
-        "file": "dist/libs/velero/src/models/shared/shared.d.ts",
-        "hash": "1731604132560302158"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/v1ServerStatusRequest.js.map",
-        "hash": "5488772290016716370"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/logs.enum.js",
-        "hash": "12311473768747102311"
-      },
-      {
-        "file": "jest.preset.js",
-        "hash": "9430166341120122740"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/server-status-request/index.d.ts",
-        "hash": "4592941885572883557"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/actions.enum.d.ts",
-        "hash": "8126764398398451587"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/v2alpha1DataDownload.js.map",
-        "hash": "9348063683277105257"
-      },
-      {
-        "file": ".nx/cache/685379667476634888/dist/libs/shared-types/src/models/form/form.models.d.ts",
-        "hash": "14414599691597249106"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/data-download/v2alpha1DataDownloadList.d.ts",
-        "hash": "12829057142034974253"
-      },
-      {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/schedule/index.js.map",
-        "hash": "6585327949847432349"
-      },
-      {
-        "file": "dist/libs/shared-types/src/enums/filters.enum.js.map",
-        "hash": "7347857332068414638"
-      },
-      {
-        "file": "dist/libs/shared-types/src/models/settings/settings.models.js.map",
-        "hash": "17173716424836652279"
+        "file": "dist/libs/shared-types/src/enums/sort.enum.js.map",
+        "hash": "887688848227959809"
       },
       {
         "file": "dist/libs/shared-types/src/models/search/search.models.js.map",
         "hash": "16298560024274382636"
       },
       {
-        "file": ".nx/cache/17524176181820267374/dist/libs/velero/src/models/volume-snapshot-location/index.d.ts",
-        "hash": "16457808994588292472"
+        "file": "dist/libs/shared-types/src/models/list/list.models.d.ts",
+        "hash": "16963887184808354460"
       },
       {
-        "file": "kubernetes/chart/templates/_helpers.tpl",
-        "hash": "147621409672782397"
+        "file": "dist/libs/shared-types/src/enums/sort.enum.js",
+        "hash": "9325996590779400195"
       },
       {
-        "file": ".nx/workspace-data/nx_files.nxt",
-        "hash": "3269864858755539648"
+        "file": "kubernetes/chart/templates/clusterrolebinding.yml",
+        "hash": "2745686315762088430"
       },
       {
-        "file": "kubernetes/chart/templates/configmaps.yaml",
-        "hash": "3022221351164132651"
+        "file": "jest.preset.js",
+        "hash": "9430166341120122740"
       },
       {
-        "file": "kubernetes/chart/LICENSE",
-        "hash": "2470321139169249516"
+        "file": "dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.js",
+        "hash": "12945841378850593678"
+      },
+      {
+        "file": "dist/libs/velero/src/index.js.map",
+        "hash": "6364994847480423257"
+      },
+      {
+        "file": "dist/libs/velero/src/models/schedule/index.js",
+        "hash": "17272750064379209104"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.d.ts",
+        "hash": "18074358584812607336"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-download/v2alpha1DataDownloadList.js",
+        "hash": "16587647654435436649"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/index.d.ts",
+        "hash": "556125465563030710"
+      },
+      {
+        "file": "kubernetes/manifests/namespace.yml",
+        "hash": "11822705435048995028"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/index.js.map",
+        "hash": "8044772020308140967"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/v1Restore.js",
+        "hash": "573532257748213813"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/sort.enum.d.ts",
+        "hash": "1113738156505511323"
       },
       {
         "file": "dist/libs/shared-types/src/models/config/config.models.d.ts",
         "hash": "2154408695985057187"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "1567591318629816437"
+      },
+      {
+        "file": "dist/libs/velero/src/models/restore/index.js.map",
+        "hash": "12227956547197990126"
+      },
+      {
+        "file": "dist/libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.js",
+        "hash": "4685350879171182357"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.js",
+        "hash": "9021317634168109049"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/form.models.js.map",
+        "hash": "11763563697111215528"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/index.js.map",
+        "hash": "9306367502334333584"
+      },
+      {
+        "file": "kubernetes/manifests/deployment.yml",
+        "hash": "8623168858671408762"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/v1Backup.d.ts",
+        "hash": "16872483996507652344"
+      },
+      {
+        "file": "dist/libs/shared-types/src/enums/actions.enum.js.map",
+        "hash": "6998968059160985756"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/stats/stats.models.d.ts",
+        "hash": "7616254010642840293"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup/v1Backup.js.map",
+        "hash": "9051885098635490746"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/search/search.models.js",
+        "hash": "15879947725606716023"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/v2alpha1DataUploadList.d.ts",
+        "hash": "6182498769656614698"
+      },
+      {
+        "file": "dist/libs/velero/package.json",
+        "hash": "17564933495817548554"
+      },
+      {
+        "file": "dist/libs/velero/src/models/download-request/v1DownloadRequestList.d.ts",
+        "hash": "16104494181495330935"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/v2alpha1DataUploadList.js.map",
+        "hash": "18273488055754562279"
+      },
+      {
+        "file": "dist/libs/velero/src/models/data-upload/v2alpha1DataUpload.js.map",
+        "hash": "18108505286361330239"
+      },
+      {
+        "file": "dist/libs/velero/src/models/backup-repository/v1BackupRepository.d.ts",
+        "hash": "14252691541594962862"
+      },
+      {
+        "file": "kubernetes/chart/templates/ingress.yaml",
+        "hash": "9205082780672944454"
+      },
+      {
+        "file": "dist/libs/velero/src/models/delete-backup-request/index.d.ts",
+        "hash": "3896011027542094410"
+      },
+      {
+        "file": "dist/libs/shared-types/src/models/form/restore.models.js",
+        "hash": "16208495041086928933"
       }
     ],
     "projectFileMap": {
-      "docs": [
-        {
-          "file": "docs/babel.config.js",
-          "hash": "1308513646348002384",
-          "deps": [
-            "npm:@docusaurus/core"
-          ]
-        },
-        {
-          "file": "docs/docs/certificate.md",
-          "hash": "12612611224637998815"
-        },
-        {
-          "file": "docs/docs/comparison.md",
-          "hash": "6941797154314872227"
-        },
-        {
-          "file": "docs/docs/contributing.md",
-          "hash": "18114669280135936908"
-        },
-        {
-          "file": "docs/docs/features.md",
-          "hash": "10424449239831325532"
-        },
-        {
-          "file": "docs/docs/getting-started/_category_.json",
-          "hash": "18256738197999155432"
-        },
-        {
-          "file": "docs/docs/getting-started/docker.md",
-          "hash": "4467463721333274809"
-        },
-        {
-          "file": "docs/docs/getting-started/environment-variables.md",
-          "hash": "6210248266638541498"
-        },
-        {
-          "file": "docs/docs/getting-started/helm.md",
-          "hash": "16023052498213248882"
-        },
-        {
-          "file": "docs/docs/getting-started/kubernetes.md",
-          "hash": "13190810388704561931"
-        },
-        {
-          "file": "docs/docs/getting-started/manual.md",
-          "hash": "1566507365136870050"
-        },
-        {
-          "file": "docs/docs/intro.md",
-          "hash": "11550933005544394862"
-        },
-        {
-          "file": "docs/docs/sso-ldap/_category_.json",
-          "hash": "5307987379717610945"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/_category_.json",
-          "hash": "7765628239162614463"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/generic.md",
-          "hash": "1379816110384758581"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/github.md",
-          "hash": "16990995201206354526"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/gitlab.md",
-          "hash": "15019006532376919715"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/google.md",
-          "hash": "18072278107153337169"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/ldap.md",
-          "hash": "17294069320585482099"
-        },
-        {
-          "file": "docs/docs/sso-ldap/providers/microsoft.md",
-          "hash": "3037659680987976129"
-        },
-        {
-          "file": "docs/docs/sso-ldap/rbac.md",
-          "hash": "10697323510797430612"
-        },
-        {
-          "file": "docs/docusaurus.config.ts",
-          "hash": "15870812020657101165",
-          "deps": [
-            "npm:prism-react-renderer",
-            "npm:@docusaurus/types",
-            "npm:@docusaurus/preset-classic",
-            "npm:docusaurus-lunr-search"
-          ]
-        },
-        {
-          "file": "docs/project.json",
-          "hash": "4812826915616377037"
-        },
-        {
-          "file": "docs/sidebars.ts",
-          "hash": "6381511234735084225",
-          "deps": [
-            "npm:@docusaurus/plugin-content-docs"
-          ]
-        },
-        {
-          "file": "docs/src/components/HomepageFeatures/index.tsx",
-          "hash": "14601073942100889139",
-          "deps": [
-            "npm:clsx"
-          ]
-        },
-        {
-          "file": "docs/src/components/HomepageFeatures/styles.module.css",
-          "hash": "14149773169115351739"
-        },
-        {
-          "file": "docs/src/css/custom.css",
-          "hash": "9052852847029976664"
-        },
-        {
-          "file": "docs/static/.nojekyll",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "docs/static/img/docusaurus-social-card.jpg",
-          "hash": "11663222046504176426"
-        },
-        {
-          "file": "docs/static/img/docusaurus.png",
-          "hash": "11805897491343913808"
-        },
-        {
-          "file": "docs/static/img/favicon.ico",
-          "hash": "1503779189109417171"
-        },
-        {
-          "file": "docs/static/img/logo.svg",
-          "hash": "9718022556480349738"
-        },
-        {
-          "file": "docs/static/img/screenshots.gif",
-          "hash": "8773253420361238220"
-        },
-        {
-          "file": "docs/static/img/undraw_docusaurus_mountain.svg",
-          "hash": "14081778507541877421"
-        },
-        {
-          "file": "docs/static/img/undraw_docusaurus_react.svg",
-          "hash": "17162343818337932230"
-        },
-        {
-          "file": "docs/static/img/undraw_docusaurus_tree.svg",
-          "hash": "12684630426846910715"
-        },
-        {
-          "file": "docs/tsconfig.json",
-          "hash": "8073110545459126801"
-        }
-      ],
-      "velero-agent-api": [
-        {
-          "file": "apps/velero-agent-api/eslint.config.mjs",
-          "hash": "1965792974734046140"
-        },
-        {
-          "file": "apps/velero-agent-api/jest.config.ts",
-          "hash": "6096272987581187584"
-        },
-        {
-          "file": "apps/velero-agent-api/project.json",
-          "hash": "14420372753026513146"
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/app.module.ts",
-          "hash": "17394784795746674398",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/throttler",
-            "npm:@nestjs/core",
-            "npm:@nestjs/serve-static",
-            "npm:@nestjs/axios",
-            "npm:@nestjs/config",
-            "npm:@otwld/nestjs-kubernetes",
-            "npm:@nestjs/cache-manager"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/app-config/app-config.controller.ts",
-          "hash": "10874960128345943236",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "shared-types",
-            "npm:@nestjs/config",
-            "npm:@nestjs/cache-manager"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/app-config/app-config.module.ts",
-          "hash": "14406949171649922448",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/auth.controller.ts",
-          "hash": "1189075103799554556",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:express"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/auth.module.ts",
-          "hash": "12414245534446243595",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/jwt",
-            "npm:@nestjs/config",
-            "npm:@nestjs/axios"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/auth.service.ts",
-          "hash": "12333690310398779461",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/config",
-            "npm:@nestjs/jwt",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/github.strategy.ts",
-          "hash": "16119082146856048222",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/config",
-            "npm:passport-github2",
-            "npm:@nestjs/axios",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/gitlab.strategy.ts",
-          "hash": "16244937303897749111",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/config",
-            "npm:passport-gitlab2",
-            "npm:@nestjs/axios",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/google.strategy.ts",
-          "hash": "14906250607952709454",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/config",
-            "npm:passport-google-oauth20",
-            "npm:rxjs",
-            "npm:@nestjs/axios"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/jwt.strategy.ts",
-          "hash": "13781056610788813663",
-          "deps": [
-            "npm:passport-jwt",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/common",
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/ldap.strategy.ts",
-          "hash": "6306434076182131029",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:passport-ldapauth",
-            "npm:@nestjs/config",
-            "shared-types",
-            "npm:ldapts"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/local.strategy.ts",
-          "hash": "12156062699928400212",
-          "deps": [
-            "npm:passport-local",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/microsoft.strategy.ts",
-          "hash": "7810424339619978944",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/config",
-            "npm:passport-microsoft",
-            "npm:@nestjs/axios",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/oauth.strategy.ts",
-          "hash": "10895211195765201973",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/config",
-            "npm:passport-oauth2",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/backup-repository/backup-repository.controller.ts",
-          "hash": "12986406356865398742",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/backup-repository/backup-repository.module.ts",
-          "hash": "95469381105649395",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/backup/backup.controller.ts",
-          "hash": "17792068047962458266",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "velero",
-            "shared-types",
-            "npm:@nestjs/cache-manager",
-            "npm:express"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/backup/backup.module.ts",
-          "hash": "8703473550260883960",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/axios"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/backup/backup.service.ts",
-          "hash": "3818697475386484639",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "velero",
-            "npm:@nestjs/axios",
-            "npm:axios",
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/delete-backup-request/delete-backup-request.controller.ts",
-          "hash": "14959509394687014517",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/delete-backup-request/delete-backup-request.module.ts",
-          "hash": "16778565883348887904",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/download-request/download-request.controller.ts",
-          "hash": "2800421460071271873",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/download-request/download-request.module.ts",
-          "hash": "15541495007615604568",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/download-request/download-request.service.ts",
-          "hash": "8053274256598968753",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "velero",
-            "npm:@nestjs/config",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/form/form.controller.ts",
-          "hash": "9093637247452185062",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/form/form.module.ts",
-          "hash": "2529947884620955662",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/form/form.service.ts",
-          "hash": "13016549256971082219",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "velero",
-            "shared-types",
-            "npm:@nestjs/config"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/k8s.health-indicator.spec.ts",
-          "hash": "15474104807601354656",
-          "deps": [
-            "npm:@nestjs/testing"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/k8s.health-indicator.ts",
-          "hash": "2630662106724170013",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/terminus",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/velero.health-indicator.spec.ts",
-          "hash": "15538826584199686926",
-          "deps": [
-            "npm:@nestjs/testing"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/velero.health-indicator.ts",
-          "hash": "16486577966029346078",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "npm:@nestjs/terminus"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/health/health.controller.ts",
-          "hash": "447279359377276962",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/terminus",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/health/health.module.ts",
-          "hash": "5591246768017497207",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/terminus",
-            "npm:@nestjs/axios"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.controller.ts",
-          "hash": "434368436708638929",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "velero",
-            "npm:@kubernetes/client-node",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.gateway.ts",
-          "hash": "15928167640267470656",
-          "deps": [
-            "npm:@nestjs/websockets",
-            "npm:socket.io",
-            "npm:@nestjs/common",
-            "velero",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.module.ts",
-          "hash": "17289368043458843716",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.service.ts",
-          "hash": "16756508068165675320",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:@nestjs/config",
-            "npm:rxjs",
-            "npm:socket.io",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.utils.ts",
-          "hash": "5706721573303833479",
-          "deps": [
-            "velero",
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/pod-volume-backup/pod-volume-backup.controller.ts",
-          "hash": "5772973748285457177",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/pod-volume-backup/pod-volume-backup.module.ts",
-          "hash": "7246122262893889304",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/pod-volume-restore/pod-volume-restore.controller.ts",
-          "hash": "13030769739568900873",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/pod-volume-restore/pod-volume-restore.module.ts",
-          "hash": "2753743664876597122",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/restore/restore.controller.ts",
-          "hash": "14421813844069334622",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "velero",
-            "shared-types",
-            "npm:@nestjs/cache-manager"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/restore/restore.module.ts",
-          "hash": "15960517940704920241",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/axios"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/restore/restore.service.ts",
-          "hash": "13739219134011346667",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:@nestjs/config",
-            "npm:rxjs",
-            "velero",
-            "npm:axios",
-            "npm:@nestjs/axios",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.controller.ts",
-          "hash": "13016523444774216170",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "velero",
-            "shared-types",
-            "npm:@nestjs/cache-manager"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.module.ts",
-          "hash": "2909302440648875777",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.service.ts",
-          "hash": "4724130626696956690",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "velero",
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.utils.ts",
-          "hash": "13292905003300473847"
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/server-status-request/server-status-request.controller.ts",
-          "hash": "6875922551691411952",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/server-status-request/server-status-request.module.ts",
-          "hash": "12996644830749188804",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/server-status-request/server-status-request.service.ts",
-          "hash": "13609121975778950087",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:@nestjs/config",
-            "npm:rxjs",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/settings/settings.controller.ts",
-          "hash": "6877269939695307520",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "shared-types",
-            "velero",
-            "npm:@nestjs/cache-manager"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/settings/settings.gateway.ts",
-          "hash": "1332660965885344343",
-          "deps": [
-            "npm:@nestjs/websockets",
-            "npm:socket.io",
-            "npm:@nestjs/common",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/settings/settings.module.ts",
-          "hash": "2724827043544098345",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/settings/settings.service.ts",
-          "hash": "11809733092621905251",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "shared-types",
-            "npm:@kubernetes/client-node",
-            "npm:socket.io",
-            "npm:@nestjs/config",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/snapshot-location/snapshot-location.controller.ts",
-          "hash": "2934811982060843189",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/snapshot-location/snapshot-location.module.ts",
-          "hash": "17051957595173694036",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/snapshot-location/snapshot-location.service.ts",
-          "hash": "4778084902785982719",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "velero",
-            "npm:@nestjs/config"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/stats/stats.controller.ts",
-          "hash": "7509679926848626059",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "shared-types",
-            "npm:@nestjs/cache-manager"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/stats/stats.module.ts",
-          "hash": "8900794744664922863",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/stats/stats.service.ts",
-          "hash": "12545085501314545563",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:rxjs",
-            "npm:cron-parser",
-            "shared-types",
-            "velero",
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/storage-location/storage-location.controller.ts",
-          "hash": "9651100303621745716",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/storage-location/storage-location.module.ts",
-          "hash": "16379051547938382653",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/modules/storage-location/storage-location.service.ts",
-          "hash": "9511121653641318814",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "velero",
-            "npm:@nestjs/config"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/decorators/check-policies.decorator.ts",
-          "hash": "15624694269227311516",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/decorators/public.decorator.ts",
-          "hash": "17960535925631508594",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/decorators/subject.decorator.ts",
-          "hash": "9232086954725494921",
-          "deps": [
-            "npm:@nestjs/common",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/backup.dto.ts",
-          "hash": "14312355771032067903",
-          "deps": [
-            "npm:class-validator",
-            "npm:class-transformer",
-            "velero",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/delete-backup-request.dto.ts",
-          "hash": "13435106256105346434",
-          "deps": [
-            "npm:class-validator"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/download-request.dto.ts",
-          "hash": "10122875065455600999",
-          "deps": [
-            "npm:class-validator",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/k8s-custom-object.dto.ts",
-          "hash": "18305224239838153505",
-          "deps": [
-            "npm:class-validator",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/restore.dto.ts",
-          "hash": "3380651707589347143",
-          "deps": [
-            "npm:class-validator",
-            "shared-types",
-            "velero",
-            "npm:class-transformer"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/schedule.dto.ts",
-          "hash": "4526216239122695158",
-          "deps": [
-            "npm:class-validator",
-            "npm:class-transformer",
-            "velero",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/search.dto.ts",
-          "hash": "149941086412931226",
-          "deps": [
-            "npm:class-validator",
-            "npm:class-transformer",
-            "shared-types",
-            "velero",
-            "npm:@nestjs/mapped-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/settings.dto.ts",
-          "hash": "17401408976989664254",
-          "deps": [
-            "npm:class-validator",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/shared.dto.ts",
-          "hash": "11772220190718727457",
-          "deps": [
-            "velero",
-            "npm:class-validator"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/snapshot-location.dto.ts",
-          "hash": "8478901157428898516",
-          "deps": [
-            "npm:class-validator",
-            "shared-types",
-            "velero",
-            "npm:class-transformer"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/dto/storage-location.dto.ts",
-          "hash": "11626426068835570320",
-          "deps": [
-            "npm:class-validator",
-            "shared-types",
-            "velero",
-            "npm:class-transformer"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/exceptions/authentication.exception.ts",
-          "hash": "14594789898641771817",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/exceptions/filters/http.exception-filter.ts",
-          "hash": "3432918522340511530",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/guards/jwt-auth.guard.ts",
-          "hash": "17832602208652056050",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/passport",
-            "npm:@nestjs/core",
-            "velero",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/guards/ws-jwt-auth.guard.ts",
-          "hash": "7800115879508403928",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:jsonwebtoken",
-            "npm:socket.io",
-            "npm:@nestjs/config",
-            "velero",
-            "npm:@nestjs/core",
-            "npm:@nestjs/websockets",
-            "npm:autoprefixer"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/casl/casl-ability.factory.ts",
-          "hash": "7644273931376249723",
-          "deps": [
-            "npm:@casl/ability",
-            "shared-types",
-            "npm:@nestjs/common",
-            "npm:@nestjs/config"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/casl/casl.module.ts",
-          "hash": "3632563270396863930",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/logger/logger.module.ts",
-          "hash": "7389042253056300610",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/logger/logger.service.ts",
-          "hash": "4288196321422936980",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:winston",
-            "npm:@nestjs/config",
-            "shared-types",
-            "npm:logform"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/velero/velero.constants.ts",
-          "hash": "15030360289186301604"
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/velero/velero.module.ts",
-          "hash": "14674705513330833855",
-          "deps": [
-            "npm:@nestjs/common"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/modules/velero/velero.service.ts",
-          "hash": "199818021444656517",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@kubernetes/client-node",
-            "npm:rxjs",
-            "npm:@nestjs/config"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/k8s.utils.ts",
-          "hash": "5898270611981229333"
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/logs.utils.ts",
-          "hash": "5333051524079176624",
-          "deps": [
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/policy.utils.ts",
-          "hash": "3272331357762067972",
-          "deps": [
-            "shared-types",
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/search.utils.ts",
-          "hash": "5588510041303829800",
-          "deps": [
-            "shared-types",
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/stats.utils.ts",
-          "hash": "4307777524315846689",
-          "deps": [
-            "velero"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/types.utils.ts",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/uuid.utils.ts",
-          "hash": "595042929619235501",
-          "deps": [
-            "npm:uuid"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/app/shared/utils/velero.utils.ts",
-          "hash": "4401731962100957200"
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/app.config.ts",
-          "hash": "8384750596205749298",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/basic-auth.config.ts",
-          "hash": "1885756296989362123",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/github.config.ts",
-          "hash": "17329646699009937694",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/gitlab.config.ts",
-          "hash": "2188154380128733958",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/google.config.ts",
-          "hash": "2564509679544438287",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/k8s.config.ts",
-          "hash": "11324632816878935870",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/ldap.config.ts",
-          "hash": "2023816485290455694",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/microsoft.config.ts",
-          "hash": "16414897760672030419",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/oauth.config.ts",
-          "hash": "16517449645678554303",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/config/velero.config.ts",
-          "hash": "15207938083776992891",
-          "deps": [
-            "npm:@nestjs/config",
-            "shared-types"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/main.ts",
-          "hash": "9421154141712210670",
-          "deps": [
-            "npm:@nestjs/common",
-            "npm:@nestjs/core",
-            "npm:@nestjs/platform-socket.io",
-            "npm:passport"
-          ]
-        },
-        {
-          "file": "apps/velero-agent-api/src/static/.gitkeep",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/velero-agent-api/tsconfig.app.json",
-          "hash": "14782504828937149651"
-        },
-        {
-          "file": "apps/velero-agent-api/tsconfig.json",
-          "hash": "3490524966360018312"
-        },
-        {
-          "file": "apps/velero-agent-api/tsconfig.spec.json",
-          "hash": "11550347367511341917"
-        },
-        {
-          "file": "apps/velero-agent-api/webpack.config.js",
-          "hash": "5708803163266262522",
-          "deps": [
-            "npm:@nx/webpack"
-          ]
-        }
-      ],
-      "i18n": [
-        {
-          "file": "libs/i18n/README.md",
-          "hash": "11091088317867416330"
-        },
-        {
-          "file": "libs/i18n/eslint.config.mjs",
-          "hash": "14634604848122713053",
-          "deps": [
-            [
-              "npm:jsonc-eslint-parser",
-              "dynamic"
-            ]
-          ]
-        },
-        {
-          "file": "libs/i18n/package.json",
-          "hash": "1007052797973370265",
-          "deps": [
-            "npm:vite",
-            "npm:@vitejs/plugin-vue",
-            "npm:@nx/vite"
-          ]
-        },
-        {
-          "file": "libs/i18n/project.json",
-          "hash": "3291144224416261721"
-        },
-        {
-          "file": "libs/i18n/src/index.ts",
-          "hash": "3021377275967171219"
-        },
-        {
-          "file": "libs/i18n/src/locales/en.json",
-          "hash": "12198116991409315608"
-        },
-        {
-          "file": "libs/i18n/src/locales/fr.json",
-          "hash": "3095937767661896450"
-        },
-        {
-          "file": "libs/i18n/src/locales/languages.json",
-          "hash": "7566039956092927004"
-        },
-        {
-          "file": "libs/i18n/tsconfig.json",
-          "hash": "13211638985393466516"
-        },
-        {
-          "file": "libs/i18n/tsconfig.lib.json",
-          "hash": "299575935697019235"
-        },
-        {
-          "file": "libs/i18n/vite.config.ts",
-          "hash": "6964843437974381611",
-          "deps": [
-            "npm:vite",
-            "npm:@vitejs/plugin-vue",
-            "npm:@nx/vite"
-          ]
-        }
-      ],
       "shared-types": [
         {
           "file": "libs/shared-types/README.md",
@@ -2696,292 +1144,6 @@
         {
           "file": "libs/shared-types/tsconfig.lib.json",
           "hash": "12638394678519115349"
-        }
-      ],
-      "velero": [
-        {
-          "file": "libs/velero/README.md",
-          "hash": "16585691997700225738"
-        },
-        {
-          "file": "libs/velero/eslint.config.mjs",
-          "hash": "14634604848122713053",
-          "deps": [
-            [
-              "npm:jsonc-eslint-parser",
-              "dynamic"
-            ]
-          ]
-        },
-        {
-          "file": "libs/velero/package.json",
-          "hash": "5471187372301425688",
-          "deps": [
-            "npm:tslib",
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/project.json",
-          "hash": "6130089240483091289"
-        },
-        {
-          "file": "libs/velero/src/constants.ts",
-          "hash": "16207322536785709926"
-        },
-        {
-          "file": "libs/velero/src/index.ts",
-          "hash": "13260235207254129153"
-        },
-        {
-          "file": "libs/velero/src/models/backup-repository/index.ts",
-          "hash": "9048404504623506514"
-        },
-        {
-          "file": "libs/velero/src/models/backup-repository/v1BackupRepository.ts",
-          "hash": "3799438682232378666",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/backup-repository/v1BackupRepositoryList.ts",
-          "hash": "2885704976102175831",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/backup-storage-location/index.ts",
-          "hash": "3941223725317472933"
-        },
-        {
-          "file": "libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.ts",
-          "hash": "2642817094402945457",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.ts",
-          "hash": "8051135582367223576",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/backup/index.ts",
-          "hash": "556125465563030710"
-        },
-        {
-          "file": "libs/velero/src/models/backup/v1Backup.ts",
-          "hash": "16496767799195094490",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/backup/v1BackupList.ts",
-          "hash": "2802972046378290639",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/data-download/index.ts",
-          "hash": "15805357057692027324"
-        },
-        {
-          "file": "libs/velero/src/models/data-download/v2alpha1DataDownload.ts",
-          "hash": "10832660437755994126",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/data-download/v2alpha1DataDownloadList.ts",
-          "hash": "12249814629255217433",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/data-upload/index.ts",
-          "hash": "1816352688334040995"
-        },
-        {
-          "file": "libs/velero/src/models/data-upload/v2alpha1DataUpload.ts",
-          "hash": "858101940805659010",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/data-upload/v2alpha1DataUploadList.ts",
-          "hash": "2302531276773053591",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/delete-backup-request/index.ts",
-          "hash": "3896011027542094410"
-        },
-        {
-          "file": "libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.ts",
-          "hash": "11385252048210736875",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.ts",
-          "hash": "1687323244745290645",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/download-request/index.ts",
-          "hash": "8813692875935229451"
-        },
-        {
-          "file": "libs/velero/src/models/download-request/v1DownloadRequest.ts",
-          "hash": "18058270318170892487",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/download-request/v1DownloadRequestList.ts",
-          "hash": "6462141672785882778",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/pod-volume-backup/index.ts",
-          "hash": "17355652300890651818"
-        },
-        {
-          "file": "libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.ts",
-          "hash": "15889814345898046796",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.ts",
-          "hash": "15970353662721756713",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/pod-volume-restore/index.ts",
-          "hash": "3188781848257100071"
-        },
-        {
-          "file": "libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.ts",
-          "hash": "14778693548809529640",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.ts",
-          "hash": "11083622180573405779",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/restore/index.ts",
-          "hash": "2072253205133525438"
-        },
-        {
-          "file": "libs/velero/src/models/restore/v1Restore.ts",
-          "hash": "13782749384712057511",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/restore/v1RestoreList.ts",
-          "hash": "12616855725155751740",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/schedule/index.ts",
-          "hash": "4189313459229436305"
-        },
-        {
-          "file": "libs/velero/src/models/schedule/v1Schedule.ts",
-          "hash": "14639061796976340388",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/schedule/v1ScheduleList.ts",
-          "hash": "13861544546630814380",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/server-status-request/index.ts",
-          "hash": "4592941885572883557"
-        },
-        {
-          "file": "libs/velero/src/models/server-status-request/v1ServerStatusRequest.ts",
-          "hash": "2973950273944006009",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/server-status-request/v1ServerStatusRequestList.ts",
-          "hash": "169094543693034118",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/shared/index.ts",
-          "hash": "2432669552124232639"
-        },
-        {
-          "file": "libs/velero/src/models/shared/shared.ts",
-          "hash": "1527775302089165861"
-        },
-        {
-          "file": "libs/velero/src/models/volume-snapshot-location/index.ts",
-          "hash": "16457808994588292472"
-        },
-        {
-          "file": "libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.ts",
-          "hash": "5126793081436446736",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.ts",
-          "hash": "1757232066795009953",
-          "deps": [
-            "npm:@kubernetes/client-node"
-          ]
-        },
-        {
-          "file": "libs/velero/tsconfig.json",
-          "hash": "152871941393052188"
-        },
-        {
-          "file": "libs/velero/tsconfig.lib.json",
-          "hash": "18155349116525859334"
         }
       ],
       "velero-agent": [
@@ -5224,6 +3386,1532 @@
             "npm:@vitejs/plugin-vue",
             "npm:@nx/vite"
           ]
+        }
+      ],
+      "velero-agent-api": [
+        {
+          "file": "apps/velero-agent-api/eslint.config.mjs",
+          "hash": "1965792974734046140"
+        },
+        {
+          "file": "apps/velero-agent-api/jest.config.ts",
+          "hash": "6096272987581187584"
+        },
+        {
+          "file": "apps/velero-agent-api/project.json",
+          "hash": "14420372753026513146"
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/app.module.ts",
+          "hash": "17394784795746674398",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/throttler",
+            "npm:@nestjs/core",
+            "npm:@nestjs/serve-static",
+            "npm:@nestjs/axios",
+            "npm:@nestjs/config",
+            "npm:@otwld/nestjs-kubernetes",
+            "npm:@nestjs/cache-manager"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/app-config/app-config.controller.ts",
+          "hash": "10874960128345943236",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "shared-types",
+            "npm:@nestjs/config",
+            "npm:@nestjs/cache-manager"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/app-config/app-config.module.ts",
+          "hash": "14406949171649922448",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/auth.controller.ts",
+          "hash": "1189075103799554556",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/auth.module.ts",
+          "hash": "12414245534446243595",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/jwt",
+            "npm:@nestjs/config",
+            "npm:@nestjs/axios"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/auth.service.ts",
+          "hash": "12333690310398779461",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "npm:@nestjs/jwt",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/github.strategy.ts",
+          "hash": "16119082146856048222",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/config",
+            "npm:passport-github2",
+            "npm:@nestjs/axios",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/gitlab.strategy.ts",
+          "hash": "16244937303897749111",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/config",
+            "npm:passport-gitlab2",
+            "npm:@nestjs/axios",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/google.strategy.ts",
+          "hash": "14906250607952709454",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/config",
+            "npm:passport-google-oauth20",
+            "npm:rxjs",
+            "npm:@nestjs/axios"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/jwt.strategy.ts",
+          "hash": "13781056610788813663",
+          "deps": [
+            "npm:passport-jwt",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/common",
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/ldap.strategy.ts",
+          "hash": "6306434076182131029",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:passport-ldapauth",
+            "npm:@nestjs/config",
+            "shared-types",
+            "npm:ldapts"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/local.strategy.ts",
+          "hash": "12156062699928400212",
+          "deps": [
+            "npm:passport-local",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/microsoft.strategy.ts",
+          "hash": "7810424339619978944",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/config",
+            "npm:passport-microsoft",
+            "npm:@nestjs/axios",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/auth/strategies/oauth.strategy.ts",
+          "hash": "10895211195765201973",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/config",
+            "npm:passport-oauth2",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/backup-repository/backup-repository.controller.ts",
+          "hash": "12986406356865398742",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/backup-repository/backup-repository.module.ts",
+          "hash": "95469381105649395",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/backup/backup.controller.ts",
+          "hash": "17792068047962458266",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "velero",
+            "shared-types",
+            "npm:@nestjs/cache-manager",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/backup/backup.module.ts",
+          "hash": "8703473550260883960",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/axios"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/backup/backup.service.ts",
+          "hash": "3818697475386484639",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "velero",
+            "npm:@nestjs/axios",
+            "npm:axios",
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/delete-backup-request/delete-backup-request.controller.ts",
+          "hash": "14959509394687014517",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/delete-backup-request/delete-backup-request.module.ts",
+          "hash": "16778565883348887904",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/download-request/download-request.controller.ts",
+          "hash": "2800421460071271873",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/download-request/download-request.module.ts",
+          "hash": "15541495007615604568",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/download-request/download-request.service.ts",
+          "hash": "8053274256598968753",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "velero",
+            "npm:@nestjs/config",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/form/form.controller.ts",
+          "hash": "9093637247452185062",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/form/form.module.ts",
+          "hash": "2529947884620955662",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/form/form.service.ts",
+          "hash": "13016549256971082219",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "velero",
+            "shared-types",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/k8s.health-indicator.spec.ts",
+          "hash": "15474104807601354656",
+          "deps": [
+            "npm:@nestjs/testing"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/k8s.health-indicator.ts",
+          "hash": "2630662106724170013",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/terminus",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/velero.health-indicator.spec.ts",
+          "hash": "15538826584199686926",
+          "deps": [
+            "npm:@nestjs/testing"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/health/health-indicators/velero.health-indicator.ts",
+          "hash": "16486577966029346078",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "npm:@nestjs/terminus"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/health/health.controller.ts",
+          "hash": "447279359377276962",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/terminus",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/health/health.module.ts",
+          "hash": "5591246768017497207",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/terminus",
+            "npm:@nestjs/axios"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.controller.ts",
+          "hash": "434368436708638929",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "velero",
+            "npm:@kubernetes/client-node",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.gateway.ts",
+          "hash": "15928167640267470656",
+          "deps": [
+            "npm:@nestjs/websockets",
+            "npm:socket.io",
+            "npm:@nestjs/common",
+            "velero",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.module.ts",
+          "hash": "17289368043458843716",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.service.ts",
+          "hash": "16756508068165675320",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:@nestjs/config",
+            "npm:rxjs",
+            "npm:socket.io",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/k8s-custom-object/k8s-custom-object.utils.ts",
+          "hash": "5706721573303833479",
+          "deps": [
+            "velero",
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/pod-volume-backup/pod-volume-backup.controller.ts",
+          "hash": "5772973748285457177",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/pod-volume-backup/pod-volume-backup.module.ts",
+          "hash": "7246122262893889304",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/pod-volume-restore/pod-volume-restore.controller.ts",
+          "hash": "13030769739568900873",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/pod-volume-restore/pod-volume-restore.module.ts",
+          "hash": "2753743664876597122",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/restore/restore.controller.ts",
+          "hash": "14421813844069334622",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "velero",
+            "shared-types",
+            "npm:@nestjs/cache-manager"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/restore/restore.module.ts",
+          "hash": "15960517940704920241",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/axios"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/restore/restore.service.ts",
+          "hash": "13739219134011346667",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:@nestjs/config",
+            "npm:rxjs",
+            "velero",
+            "npm:axios",
+            "npm:@nestjs/axios",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.controller.ts",
+          "hash": "13016523444774216170",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "velero",
+            "shared-types",
+            "npm:@nestjs/cache-manager"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.module.ts",
+          "hash": "2909302440648875777",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.service.ts",
+          "hash": "4724130626696956690",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "velero",
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/schedule/schedule.utils.ts",
+          "hash": "13292905003300473847"
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/server-status-request/server-status-request.controller.ts",
+          "hash": "6875922551691411952",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/server-status-request/server-status-request.module.ts",
+          "hash": "12996644830749188804",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/server-status-request/server-status-request.service.ts",
+          "hash": "13609121975778950087",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:@nestjs/config",
+            "npm:rxjs",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/settings/settings.controller.ts",
+          "hash": "6877269939695307520",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "shared-types",
+            "velero",
+            "npm:@nestjs/cache-manager"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/settings/settings.gateway.ts",
+          "hash": "1332660965885344343",
+          "deps": [
+            "npm:@nestjs/websockets",
+            "npm:socket.io",
+            "npm:@nestjs/common",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/settings/settings.module.ts",
+          "hash": "2724827043544098345",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/settings/settings.service.ts",
+          "hash": "11809733092621905251",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "shared-types",
+            "npm:@kubernetes/client-node",
+            "npm:socket.io",
+            "npm:@nestjs/config",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/snapshot-location/snapshot-location.controller.ts",
+          "hash": "2934811982060843189",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/snapshot-location/snapshot-location.module.ts",
+          "hash": "17051957595173694036",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/snapshot-location/snapshot-location.service.ts",
+          "hash": "4778084902785982719",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "velero",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/stats/stats.controller.ts",
+          "hash": "7509679926848626059",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "shared-types",
+            "npm:@nestjs/cache-manager"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/stats/stats.module.ts",
+          "hash": "8900794744664922863",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/stats/stats.service.ts",
+          "hash": "12545085501314545563",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:rxjs",
+            "npm:cron-parser",
+            "shared-types",
+            "velero",
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/storage-location/storage-location.controller.ts",
+          "hash": "9651100303621745716",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/storage-location/storage-location.module.ts",
+          "hash": "16379051547938382653",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/modules/storage-location/storage-location.service.ts",
+          "hash": "9511121653641318814",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "velero",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/decorators/check-policies.decorator.ts",
+          "hash": "15624694269227311516",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/decorators/public.decorator.ts",
+          "hash": "17960535925631508594",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/decorators/subject.decorator.ts",
+          "hash": "9232086954725494921",
+          "deps": [
+            "npm:@nestjs/common",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/backup.dto.ts",
+          "hash": "14312355771032067903",
+          "deps": [
+            "npm:class-validator",
+            "npm:class-transformer",
+            "velero",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/delete-backup-request.dto.ts",
+          "hash": "13435106256105346434",
+          "deps": [
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/download-request.dto.ts",
+          "hash": "10122875065455600999",
+          "deps": [
+            "npm:class-validator",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/k8s-custom-object.dto.ts",
+          "hash": "18305224239838153505",
+          "deps": [
+            "npm:class-validator",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/restore.dto.ts",
+          "hash": "3380651707589347143",
+          "deps": [
+            "npm:class-validator",
+            "shared-types",
+            "velero",
+            "npm:class-transformer"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/schedule.dto.ts",
+          "hash": "4526216239122695158",
+          "deps": [
+            "npm:class-validator",
+            "npm:class-transformer",
+            "velero",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/search.dto.ts",
+          "hash": "149941086412931226",
+          "deps": [
+            "npm:class-validator",
+            "npm:class-transformer",
+            "shared-types",
+            "velero",
+            "npm:@nestjs/mapped-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/settings.dto.ts",
+          "hash": "17401408976989664254",
+          "deps": [
+            "npm:class-validator",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/shared.dto.ts",
+          "hash": "11772220190718727457",
+          "deps": [
+            "velero",
+            "npm:class-validator"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/snapshot-location.dto.ts",
+          "hash": "8478901157428898516",
+          "deps": [
+            "npm:class-validator",
+            "shared-types",
+            "velero",
+            "npm:class-transformer"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/dto/storage-location.dto.ts",
+          "hash": "11626426068835570320",
+          "deps": [
+            "npm:class-validator",
+            "shared-types",
+            "velero",
+            "npm:class-transformer"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/exceptions/authentication.exception.ts",
+          "hash": "14594789898641771817",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/exceptions/filters/http.exception-filter.ts",
+          "hash": "3432918522340511530",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/guards/jwt-auth.guard.ts",
+          "hash": "17832602208652056050",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/passport",
+            "npm:@nestjs/core",
+            "velero",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/guards/ws-jwt-auth.guard.ts",
+          "hash": "7800115879508403928",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:jsonwebtoken",
+            "npm:socket.io",
+            "npm:@nestjs/config",
+            "velero",
+            "npm:@nestjs/core",
+            "npm:@nestjs/websockets",
+            "npm:autoprefixer"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/casl/casl-ability.factory.ts",
+          "hash": "7644273931376249723",
+          "deps": [
+            "npm:@casl/ability",
+            "shared-types",
+            "npm:@nestjs/common",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/casl/casl.module.ts",
+          "hash": "3632563270396863930",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/logger/logger.module.ts",
+          "hash": "7389042253056300610",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/logger/logger.service.ts",
+          "hash": "4288196321422936980",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:winston",
+            "npm:@nestjs/config",
+            "shared-types",
+            "npm:logform"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/velero/velero.constants.ts",
+          "hash": "15030360289186301604"
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/velero/velero.module.ts",
+          "hash": "14674705513330833855",
+          "deps": [
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/modules/velero/velero.service.ts",
+          "hash": "199818021444656517",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@kubernetes/client-node",
+            "npm:rxjs",
+            "npm:@nestjs/config"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/k8s.utils.ts",
+          "hash": "5898270611981229333"
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/logs.utils.ts",
+          "hash": "5333051524079176624",
+          "deps": [
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/policy.utils.ts",
+          "hash": "3272331357762067972",
+          "deps": [
+            "shared-types",
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/search.utils.ts",
+          "hash": "5588510041303829800",
+          "deps": [
+            "shared-types",
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/stats.utils.ts",
+          "hash": "4307777524315846689",
+          "deps": [
+            "velero"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/types.utils.ts",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/uuid.utils.ts",
+          "hash": "595042929619235501",
+          "deps": [
+            "npm:uuid"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/app/shared/utils/velero.utils.ts",
+          "hash": "4401731962100957200"
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/app.config.ts",
+          "hash": "8384750596205749298",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/basic-auth.config.ts",
+          "hash": "1885756296989362123",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/github.config.ts",
+          "hash": "17329646699009937694",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/gitlab.config.ts",
+          "hash": "2188154380128733958",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/google.config.ts",
+          "hash": "2564509679544438287",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/k8s.config.ts",
+          "hash": "11324632816878935870",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/ldap.config.ts",
+          "hash": "2023816485290455694",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/microsoft.config.ts",
+          "hash": "16414897760672030419",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/oauth.config.ts",
+          "hash": "16517449645678554303",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/config/velero.config.ts",
+          "hash": "15207938083776992891",
+          "deps": [
+            "npm:@nestjs/config",
+            "shared-types"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/main.ts",
+          "hash": "9421154141712210670",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/core",
+            "npm:@nestjs/platform-socket.io",
+            "npm:passport"
+          ]
+        },
+        {
+          "file": "apps/velero-agent-api/src/static/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/velero-agent-api/tsconfig.app.json",
+          "hash": "14782504828937149651"
+        },
+        {
+          "file": "apps/velero-agent-api/tsconfig.json",
+          "hash": "3490524966360018312"
+        },
+        {
+          "file": "apps/velero-agent-api/tsconfig.spec.json",
+          "hash": "11550347367511341917"
+        },
+        {
+          "file": "apps/velero-agent-api/webpack.config.js",
+          "hash": "5708803163266262522",
+          "deps": [
+            "npm:@nx/webpack"
+          ]
+        }
+      ],
+      "docs": [
+        {
+          "file": "docs/babel.config.js",
+          "hash": "1308513646348002384",
+          "deps": [
+            "npm:@docusaurus/core"
+          ]
+        },
+        {
+          "file": "docs/docs/certificate.md",
+          "hash": "12612611224637998815"
+        },
+        {
+          "file": "docs/docs/comparison.md",
+          "hash": "6941797154314872227"
+        },
+        {
+          "file": "docs/docs/contributing.md",
+          "hash": "18114669280135936908"
+        },
+        {
+          "file": "docs/docs/features.md",
+          "hash": "10424449239831325532"
+        },
+        {
+          "file": "docs/docs/getting-started/_category_.json",
+          "hash": "18256738197999155432"
+        },
+        {
+          "file": "docs/docs/getting-started/docker.md",
+          "hash": "4467463721333274809"
+        },
+        {
+          "file": "docs/docs/getting-started/environment-variables.md",
+          "hash": "6210248266638541498"
+        },
+        {
+          "file": "docs/docs/getting-started/helm.md",
+          "hash": "16023052498213248882"
+        },
+        {
+          "file": "docs/docs/getting-started/kubernetes.md",
+          "hash": "13190810388704561931"
+        },
+        {
+          "file": "docs/docs/getting-started/manual.md",
+          "hash": "1566507365136870050"
+        },
+        {
+          "file": "docs/docs/intro.md",
+          "hash": "11550933005544394862"
+        },
+        {
+          "file": "docs/docs/sso-ldap/_category_.json",
+          "hash": "5307987379717610945"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/_category_.json",
+          "hash": "7765628239162614463"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/generic.md",
+          "hash": "1379816110384758581"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/github.md",
+          "hash": "16990995201206354526"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/gitlab.md",
+          "hash": "15019006532376919715"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/google.md",
+          "hash": "18072278107153337169"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/ldap.md",
+          "hash": "17294069320585482099"
+        },
+        {
+          "file": "docs/docs/sso-ldap/providers/microsoft.md",
+          "hash": "3037659680987976129"
+        },
+        {
+          "file": "docs/docs/sso-ldap/rbac.md",
+          "hash": "10697323510797430612"
+        },
+        {
+          "file": "docs/docusaurus.config.ts",
+          "hash": "15870812020657101165",
+          "deps": [
+            "npm:prism-react-renderer",
+            "npm:@docusaurus/types",
+            "npm:@docusaurus/preset-classic",
+            "npm:docusaurus-lunr-search"
+          ]
+        },
+        {
+          "file": "docs/project.json",
+          "hash": "4812826915616377037"
+        },
+        {
+          "file": "docs/sidebars.ts",
+          "hash": "6381511234735084225",
+          "deps": [
+            "npm:@docusaurus/plugin-content-docs"
+          ]
+        },
+        {
+          "file": "docs/src/components/HomepageFeatures/index.tsx",
+          "hash": "14601073942100889139",
+          "deps": [
+            "npm:clsx"
+          ]
+        },
+        {
+          "file": "docs/src/components/HomepageFeatures/styles.module.css",
+          "hash": "14149773169115351739"
+        },
+        {
+          "file": "docs/src/css/custom.css",
+          "hash": "9052852847029976664"
+        },
+        {
+          "file": "docs/static/.nojekyll",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "docs/static/img/docusaurus-social-card.jpg",
+          "hash": "11663222046504176426"
+        },
+        {
+          "file": "docs/static/img/docusaurus.png",
+          "hash": "11805897491343913808"
+        },
+        {
+          "file": "docs/static/img/favicon.ico",
+          "hash": "1503779189109417171"
+        },
+        {
+          "file": "docs/static/img/logo.svg",
+          "hash": "9718022556480349738"
+        },
+        {
+          "file": "docs/static/img/screenshots.gif",
+          "hash": "8773253420361238220"
+        },
+        {
+          "file": "docs/static/img/undraw_docusaurus_mountain.svg",
+          "hash": "14081778507541877421"
+        },
+        {
+          "file": "docs/static/img/undraw_docusaurus_react.svg",
+          "hash": "17162343818337932230"
+        },
+        {
+          "file": "docs/static/img/undraw_docusaurus_tree.svg",
+          "hash": "12684630426846910715"
+        },
+        {
+          "file": "docs/tsconfig.json",
+          "hash": "8073110545459126801"
+        }
+      ],
+      "i18n": [
+        {
+          "file": "libs/i18n/README.md",
+          "hash": "11091088317867416330"
+        },
+        {
+          "file": "libs/i18n/eslint.config.mjs",
+          "hash": "14634604848122713053",
+          "deps": [
+            [
+              "npm:jsonc-eslint-parser",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": "libs/i18n/package.json",
+          "hash": "1007052797973370265",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-vue",
+            "npm:@nx/vite"
+          ]
+        },
+        {
+          "file": "libs/i18n/project.json",
+          "hash": "3291144224416261721"
+        },
+        {
+          "file": "libs/i18n/src/index.ts",
+          "hash": "3021377275967171219"
+        },
+        {
+          "file": "libs/i18n/src/locales/en.json",
+          "hash": "12198116991409315608"
+        },
+        {
+          "file": "libs/i18n/src/locales/fr.json",
+          "hash": "3095937767661896450"
+        },
+        {
+          "file": "libs/i18n/src/locales/languages.json",
+          "hash": "7566039956092927004"
+        },
+        {
+          "file": "libs/i18n/tsconfig.json",
+          "hash": "13211638985393466516"
+        },
+        {
+          "file": "libs/i18n/tsconfig.lib.json",
+          "hash": "299575935697019235"
+        },
+        {
+          "file": "libs/i18n/vite.config.ts",
+          "hash": "6964843437974381611",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-vue",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "velero": [
+        {
+          "file": "libs/velero/README.md",
+          "hash": "16585691997700225738"
+        },
+        {
+          "file": "libs/velero/eslint.config.mjs",
+          "hash": "14634604848122713053",
+          "deps": [
+            [
+              "npm:jsonc-eslint-parser",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": "libs/velero/package.json",
+          "hash": "5471187372301425688",
+          "deps": [
+            "npm:tslib",
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/project.json",
+          "hash": "6130089240483091289"
+        },
+        {
+          "file": "libs/velero/src/constants.ts",
+          "hash": "16207322536785709926"
+        },
+        {
+          "file": "libs/velero/src/index.ts",
+          "hash": "13260235207254129153"
+        },
+        {
+          "file": "libs/velero/src/models/backup-repository/index.ts",
+          "hash": "9048404504623506514"
+        },
+        {
+          "file": "libs/velero/src/models/backup-repository/v1BackupRepository.ts",
+          "hash": "3799438682232378666",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/backup-repository/v1BackupRepositoryList.ts",
+          "hash": "2885704976102175831",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/backup-storage-location/index.ts",
+          "hash": "3941223725317472933"
+        },
+        {
+          "file": "libs/velero/src/models/backup-storage-location/v1BackupStorageLocation.ts",
+          "hash": "2642817094402945457",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/backup-storage-location/v1BackupStorageLocationList.ts",
+          "hash": "8051135582367223576",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/backup/index.ts",
+          "hash": "556125465563030710"
+        },
+        {
+          "file": "libs/velero/src/models/backup/v1Backup.ts",
+          "hash": "16496767799195094490",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/backup/v1BackupList.ts",
+          "hash": "2802972046378290639",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/data-download/index.ts",
+          "hash": "15805357057692027324"
+        },
+        {
+          "file": "libs/velero/src/models/data-download/v2alpha1DataDownload.ts",
+          "hash": "10832660437755994126",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/data-download/v2alpha1DataDownloadList.ts",
+          "hash": "12249814629255217433",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/data-upload/index.ts",
+          "hash": "1816352688334040995"
+        },
+        {
+          "file": "libs/velero/src/models/data-upload/v2alpha1DataUpload.ts",
+          "hash": "858101940805659010",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/data-upload/v2alpha1DataUploadList.ts",
+          "hash": "2302531276773053591",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/delete-backup-request/index.ts",
+          "hash": "3896011027542094410"
+        },
+        {
+          "file": "libs/velero/src/models/delete-backup-request/v1DeleteBackupRequest.ts",
+          "hash": "11385252048210736875",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/delete-backup-request/v1DeleteBackupRequestList.ts",
+          "hash": "1687323244745290645",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/download-request/index.ts",
+          "hash": "8813692875935229451"
+        },
+        {
+          "file": "libs/velero/src/models/download-request/v1DownloadRequest.ts",
+          "hash": "18058270318170892487",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/download-request/v1DownloadRequestList.ts",
+          "hash": "6462141672785882778",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/pod-volume-backup/index.ts",
+          "hash": "17355652300890651818"
+        },
+        {
+          "file": "libs/velero/src/models/pod-volume-backup/v1PodVolumeBackup.ts",
+          "hash": "15889814345898046796",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/pod-volume-backup/v1PodVolumeBackupList.ts",
+          "hash": "15970353662721756713",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/pod-volume-restore/index.ts",
+          "hash": "3188781848257100071"
+        },
+        {
+          "file": "libs/velero/src/models/pod-volume-restore/v1PodVolumeRestore.ts",
+          "hash": "14778693548809529640",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/pod-volume-restore/v1PodVolumeRestoreList.ts",
+          "hash": "11083622180573405779",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/restore/index.ts",
+          "hash": "2072253205133525438"
+        },
+        {
+          "file": "libs/velero/src/models/restore/v1Restore.ts",
+          "hash": "13782749384712057511",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/restore/v1RestoreList.ts",
+          "hash": "12616855725155751740",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/schedule/index.ts",
+          "hash": "4189313459229436305"
+        },
+        {
+          "file": "libs/velero/src/models/schedule/v1Schedule.ts",
+          "hash": "14639061796976340388",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/schedule/v1ScheduleList.ts",
+          "hash": "13861544546630814380",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/server-status-request/index.ts",
+          "hash": "4592941885572883557"
+        },
+        {
+          "file": "libs/velero/src/models/server-status-request/v1ServerStatusRequest.ts",
+          "hash": "2973950273944006009",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/server-status-request/v1ServerStatusRequestList.ts",
+          "hash": "169094543693034118",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/shared/index.ts",
+          "hash": "2432669552124232639"
+        },
+        {
+          "file": "libs/velero/src/models/shared/shared.ts",
+          "hash": "1527775302089165861"
+        },
+        {
+          "file": "libs/velero/src/models/volume-snapshot-location/index.ts",
+          "hash": "16457808994588292472"
+        },
+        {
+          "file": "libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocation.ts",
+          "hash": "5126793081436446736",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/src/models/volume-snapshot-location/v1VolumeSnapshotLocationList.ts",
+          "hash": "1757232066795009953",
+          "deps": [
+            "npm:@kubernetes/client-node"
+          ]
+        },
+        {
+          "file": "libs/velero/tsconfig.json",
+          "hash": "152871941393052188"
+        },
+        {
+          "file": "libs/velero/tsconfig.lib.json",
+          "hash": "18155349116525859334"
         }
       ]
     }

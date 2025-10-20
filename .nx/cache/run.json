@@ -1,21 +1,9 @@
 {
   "run": {
-    "command": "nx serve velero-agent-api",
-    "startTime": "2025-10-20T06:23:31.205Z",
-    "endTime": "2025-10-20T06:26:13.649Z",
+    "command": "nx serve velero-agent",
+    "startTime": "2025-10-20T07:06:01.375Z",
+    "endTime": "2025-10-20T10:57:20.543Z",
     "inner": false
   },
-  "tasks": [
-    {
-      "taskId": "velero-agent-api:serve:development",
-      "target": "serve",
-      "projectName": "velero-agent-api",
-      "hash": "7083555806985517783",
-      "startTime": "2025-10-20T06:23:31.221Z",
-      "endTime": "2025-10-20T06:26:13.642Z",
-      "params": "",
-      "cacheStatus": "cache-miss",
-      "status": 1
-    }
-  ]
+  "tasks": []
 }

@@ -15,7 +15,7 @@ spec:
       serviceAccountName: velero-agent
       containers:
       - name: velero-agent
-        image: otwld/velero-agent:latest
+        image: velero-agent:latest
         ports:
         - name: http
           containerPort: 3000

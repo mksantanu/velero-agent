@@ -14,16 +14,13 @@ annotations:
   artifacthub.io/changes: |
     - kind: changed
       description: upgrade app version to 0.10.0
-
-home: https://velero-agent.docs.otwld.com/
-icon: https://velero.io/img/Velero.svg
 keywords:
   - backup
   - velero
   - dashboard
 sources:
-  - https://github.com/otwld/velero-agent
+  - https://github.com/mksantanu/velero-agent
   - https://github.com/vmware-tanzu/velero
 maintainers:
-  - name: OTWLD
-    email: tech@otwld.com
+  - name: Santanu
+    email: mksantanu@me.com

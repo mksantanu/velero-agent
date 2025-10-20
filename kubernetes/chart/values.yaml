@@ -70,9 +70,8 @@ configuration:
     # -- Value of the policy file, this is a sample policy file
     # if `useConfigMap` is true and `existingSecret` is empty, this value will be stored in secret at first deployment
     value: |
-      # Please refer to https://velero-agent.docs.otwld.com/ to configure policies
-      # g,*,manage,all
-      # u,*,manage,all
+      g,*,manage,all
+      u,*,manage,all
 
     # -- Whether a configMap should be used.
     useConfigMap: true
@@ -268,7 +267,7 @@ volumeMounts: [ ]
 extraArgs: [ ]
 
 # -- Additional environments variables on the output Deployment definition.
-# Docs: https://velero-agent.docs.otwld.com/getting-started/environment-variables
+
 env: [ ]
 # - name: BASIC_AUTH_ENABLED
 #   value: VALUE
