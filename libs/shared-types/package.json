@@ -1,0 +1,14 @@
+{
+  "name": "@velero-agent/shared-types",
+  "version": "0.1.0",
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "peerDependencies": {
+    "@velero-agent/velero": "*",
+    "@kubernetes/client-node": "*"
+  },
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts"
+}

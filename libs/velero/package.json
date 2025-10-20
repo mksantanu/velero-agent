@@ -1,0 +1,11 @@
+{
+  "name": "@velero-agent/velero",
+  "version": "0.1.0",
+  "dependencies": {
+    "tslib": "^2.3.0",
+    "@kubernetes/client-node": "*"
+  },
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts"
+}

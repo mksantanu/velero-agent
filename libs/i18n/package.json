@@ -1,0 +1,13 @@
+{
+  "name": "@velero-agent/i18n",
+  "version": "0.1.0",
+  "dependencies": {},
+  "peerDependencies": {
+    "vite": "*",
+    "@vitejs/plugin-vue": "*",
+    "@nx/vite": "*"
+  },
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts"
+}

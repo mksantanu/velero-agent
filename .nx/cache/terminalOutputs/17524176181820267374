@@ -1,0 +1,6 @@
+> nx run velero:build
+
+Compiling TypeScript files for project "velero"...
+Done compiling TypeScript files for project "velero".
+
+[2m../../dist/libs/velero/README.md[22m

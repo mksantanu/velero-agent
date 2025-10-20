@@ -1,0 +1,105 @@
+<template>
+  <div class="grid grid-cols-1 xl:gap-4">
+    <div
+      class="p-4 mb-4 bg-white border border-gray-200 rounded-lg shadow-sm 2xl:col-span-2 dark:border-gray-700 sm:p-6 dark:bg-gray-800"
+    >
+      <div class="flex items-center">
+        <h3 class="text-xl font-semibold dark:text-white">
+          {{ t('podVolumes.title') }}
+        </h3>
+        <Skeleton
+          v-if="data && data.length === 0 && isFetching"
+          class="ml-4"
+          width="12"
+        />
+        <Badge
+          v-else
+          :prefix-icon="faCubes"
+          :text="data.length.toString()"
+          class="ml-4"
+          color="blue"
+        />
+        <Skeleton
+          v-if="data && data.length === 0 && isFetching"
+          class="ml-4"
+          width="12"
+        />
+        <Badge
+          v-else
+          :prefix-icon="faSquareBinary"
+          :text="convertBytes(totalPodVolumesSize || 0)"
+          class="ml-4"
+          color="blue"
+        />
+      </div>
+      <div class="overflow-auto mt-2 pr-2 max-h-[300px]">
+        <template v-if="data && data.length === 0 && isFetching">
+          <div v-for="index of 3" :key="index" class="py-2">
+            <Skeleton class="ml-4" height="3" width="96" />
+            <Skeleton class="ml-4 mt-2" width="24" />
+            <Skeleton class="ml-4 mt-2" height="3" width="48" />
+          </div>
+        </template>
+        <div v-if="data && data.length === 0 && !isFetching" class="flex h-full items-center justify-center">
+          <span v-if="!isFetching" class="text-gray-500 dark:text-gray-400">
+            {{ t('global.noData') }}
+          </span>
+        </div>
+        <PodVolumeLine
+          v-for="(pod, index) of data"
+          :key="index"
+          :pod-volume="pod"
+        />
+      </div>
+    </div>
+  </div>
+</template>
+<script lang="ts" setup>
+import { useI18n } from 'vue-i18n';
+import {
+  Resources,
+  type V1PodVolumeBackup,
+  type V1PodVolumeRestore,
+} from '@velero-agent/velero';
+import { type Router, useRouter } from 'vue-router';
+import { useKubernetesWatchListObject } from '@velero-agent-app/composables/useKubernetesWatchListObject';
+import { Pages } from '@velero-agent-app/utils/constants.utils';
+import { computed, onBeforeMount, onBeforeUnmount } from 'vue';
+import { useListStore } from '@velero-agent-app/stores/list.store';
+import PodVolumeLine from '@velero-agent-app/components/PodVolume/PodVolumeShortLine.vue';
+import { faCircleNotch, faCubes, faSquareBinary } from '@fortawesome/free-solid-svg-icons';
+import { convertBytes } from '@velero-agent-app/utils/string.utils';
+import Skeleton from '@velero-agent-app/components/Skeleton.vue';
+import Badge from '@velero-agent-app/components/Badge.vue';
+import { useFilters } from '@velero-agent-app/composables/search/useFilters';
+import { Filter } from '@velero-agent/shared-types';
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+
+const { t } = useI18n();
+const router: Router = useRouter();
+const { set } = useFilters();
+
+const type =
+  router.currentRoute.value.name === Pages.BACKUP.name
+    ? Resources.POD_VOLUME_BACKUP
+    : Resources.POD_VOLUME_RESTORE;
+
+const listStore = useListStore();
+listStore.setObjectType(type);
+set(Filter.Search, router.currentRoute.value.params.name as string, true);
+
+const { on, off, data, error, isFetching } = useKubernetesWatchListObject<
+  V1PodVolumeBackup | V1PodVolumeRestore
+>(type);
+
+onBeforeMount((): void => on());
+onBeforeUnmount((): void => off());
+
+const totalPodVolumesSize = computed(() =>
+  data.value?.reduce(
+    (accumulator: number, podVolume: V1PodVolumeBackup | V1PodVolumeRestore) =>
+      accumulator + (podVolume.status?.progress?.bytesDone || 0),
+    0
+  )
+);
+</script>

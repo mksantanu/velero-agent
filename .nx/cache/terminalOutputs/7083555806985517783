@@ -1,0 +1,154 @@
+chunk (runtime: main) [1m[32mmain.js[39m[22m (main) 288 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (1ec21fed63ebc5f1)
+[1m[31mDebugger listening on ws://localhost:9229/0fe4df2d-d8ce-4423-a6d5-23185035bcc5[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"PassportModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"ThrottlerModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"HttpModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"HttpModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"HttpModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"ServeStaticModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"TerminusModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"LoggerModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"LoggerModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"KubernetesModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"JwtModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"VeleroModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"DeleteBackupRequestModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"PodVolumeBackupModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"PodVolumeRestoreModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"CacheModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"CaslModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"BackupRepositoryModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"FormModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"HealthModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"K8sCustomObjectModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"AppConfigModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"DownloadRequestModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"StorageLocationModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"ServerStatusRequestModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"SnapshotLocationModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"StatsModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"AuthModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"BackupModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"RestoreModule dependencies initialized","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"ScheduleModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"InstanceLoader","level":"info","message":"SettingsModule dependencies initialized","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"WebSocketsController","level":"info","message":"SettingsGateway subscribed to the \"settings:logs:on\" message","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"WebSocketsController","level":"info","message":"SettingsGateway subscribed to the \"settings:logs:off\" message","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"WebSocketsController","level":"info","message":"K8sCustomObjectGateway subscribed to the \"watch:on\" message","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"WebSocketsController","level":"info","message":"K8sCustomObjectGateway subscribed to the \"watch:off\" message","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"BackupController {/api/backups}:","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups/download, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups/:name/logs, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups/:name/download, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups/:name, DELETE} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backups/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"DeleteBackupRequestController {/api/delete-backup-requests}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/delete-backup-requests, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/delete-backup-requests/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/delete-backup-requests, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/delete-backup-requests/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"DownloadRequestController {/api/download-requests}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/download-requests, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/download-requests/:name, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/download-requests, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/download-requests/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"ScheduleController {/api/schedules}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules/:name, PUT} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules/:name/pause, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules/:name/unpause, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules/:name/stats, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/schedules/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"StorageLocationController {/api/backup-storage-locations}:","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-storage-locations, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-storage-locations/:name, PUT} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-storage-locations, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-storage-locations/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-storage-locations, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-storage-locations/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"RestoreController {/api/restores}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/restores, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/restores/:name/logs, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/restores, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/restores/:name, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/restores, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/restores/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"HealthController {/api/health}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/health, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"FormController {/api/form}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/schedules, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/backups, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/namespaces, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/storage-locations, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/snapshot-locations, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/secrets, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/form/config-maps, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"SettingsController {/api/settings}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/cluster, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/velero/server, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/velero/agents, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/velero/ui, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/velero/plugins, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/velero/plugins, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/settings/velero/plugins/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"AuthController {/api/auth}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/auth/login, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/auth/google, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/auth/github, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/auth/gitlab, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/auth/microsoft, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/auth/oauth, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"ServerStatusRequestController {/api/server-status-requests}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/server-status-requests, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/server-status-requests/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/server-status-requests, DELETE} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/server-status-requests/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"SnapshotLocationController {/api/volume-snapshot-locations}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/volume-snapshot-locations, POST} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/volume-snapshot-locations/:name, PUT} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/volume-snapshot-locations, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/volume-snapshot-locations/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/volume-snapshot-locations, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/volume-snapshot-locations/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"BackupRepositoryController {/api/backup-repositories}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-repositories, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-repositories/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-repositories, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/backup-repositories/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"PodVolumeBackupController {/api/pod-volume-backups}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/pod-volume-backups, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/pod-volume-backups/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/pod-volume-backups, DELETE} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/pod-volume-backups/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"PodVolumeRestoreController {/api/podvolumerestores}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/podvolumerestores, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/podvolumerestores/:name, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/podvolumerestores, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/podvolumerestores/:name, DELETE} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"StatsController {/api/stats}:","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/backups/status, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/backups/success-rate, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/restores/status, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/restores/success-rate, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/backups/next-scheduled, GET} route","ms":"+1ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/backups/latest, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/stats/unscheduled-namespaces, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RoutesResolver","level":"info","message":"AppConfigController {/api/config}:","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/config, GET} route","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","ms":"+0ms","timestamp":"2025-10-20 11:53:42"}
+{"level":"info","message":"🚀 Application is running on: http://localhost:3000/","ms":"+3ms","timestamp":"2025-10-20 11:53:42"}
+^C

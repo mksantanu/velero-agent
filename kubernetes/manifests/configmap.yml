@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: velero-agent
+  namespace: velero-agent
+data:
+  policies.csv: |
+    # Please refer to https://velero-agent.docs.otwld.com/ to configure policies
+    # g,*,manage,all
+    # u,*,manage,all

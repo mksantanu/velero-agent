@@ -1,0 +1,38 @@
+import { useListStore } from '@velero-agent-app/stores/list.store';
+import { type Router, useRoute, useRouter } from 'vue-router';
+import { Filter, type SearchFilters } from '@velero-agent/shared-types';
+
+export const useFilters = () => {
+  const listStore = useListStore();
+  const route = useRoute();
+  const router: Router = useRouter();
+
+  const set = (key: Filter, value: string, hidden = false) => {
+    listStore.setFilter(key, value);
+
+    if (!hidden) {
+      const query = {
+        ...route.query,
+        [key]: value ? value : undefined,
+      };
+
+      router.push({query});
+    }
+  };
+
+  const reset = () => {
+    listStore.resetFilters();
+
+    const query = {
+      ...route.query,
+    };
+
+    for (const key in route.query) {
+      query[key] = undefined;
+    }
+
+    router.push({ query });
+  };
+
+  return { set, reset };
+};

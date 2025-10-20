@@ -1,0 +1,13 @@
+import { Controller } from '@nestjs/common';
+import { Resources, V1DownloadRequest } from '@velero-agent/velero';
+import { K8sCustomObjectService } from '@velero-agent-api/modules/k8s-custom-object/k8s-custom-object.service';
+import { K8sCustomObjectController } from '@velero-agent-api/modules/k8s-custom-object/k8s-custom-object.controller';
+import { Subject } from '@velero-agent-api/shared/decorators/subject.decorator';
+
+@Controller(Resources.DOWNLOAD_REQUEST.route)
+@Subject(Resources.DOWNLOAD_REQUEST.plural)
+export class DownloadRequestController extends K8sCustomObjectController<V1DownloadRequest> {
+  constructor(readonly k8sCustomObjectService: K8sCustomObjectService) {
+    super(k8sCustomObjectService, Resources.DOWNLOAD_REQUEST);
+  }
+}

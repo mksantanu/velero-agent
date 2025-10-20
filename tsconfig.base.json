@@ -1,0 +1,39 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@velero-agent-api/assets/*": ["apps/velero-agent-api/src/assets/*"],
+      "@velero-agent-api/config/*": ["apps/velero-agent-api/src/config/*"],
+      "@velero-agent-api/modules/*": ["apps/velero-agent-api/src/app/modules/*"],
+      "@velero-agent-api/shared/*": ["apps/velero-agent-api/src/app/shared/*"],
+      "@velero-agent-app/api/*": ["apps/velero-agent/src/api/*"],
+      "@velero-agent-app/assets/*": ["apps/velero-agent/src/assets/*"],
+      "@velero-agent-app/components/*": ["apps/velero-agent/src/components/*"],
+      "@velero-agent-app/composables/*": ["apps/velero-agent/src/composables/*"],
+      "@velero-agent-app/directives/*": ["apps/velero-agent/src/directives/*"],
+      "@velero-agent-app/layouts/*": ["apps/velero-agent/src/layouts/*"],
+      "@velero-agent-app/plugins/*": ["apps/velero-agent/src/plugins/*"],
+      "@velero-agent-app/stores/*": ["apps/velero-agent/src/stores/*"],
+      "@velero-agent-app/use/*": ["apps/velero-agent/src/use/*"],
+      "@velero-agent-app/utils/*": ["apps/velero-agent/src/utils/*"],
+      "@velero-agent-app/views/*": ["apps/velero-agent/src/views/*"],
+      "@velero-agent/i18n": ["libs/i18n/src/index.ts"],
+      "@velero-agent/shared-types": ["libs/shared-types/src/index.ts"],
+      "@velero-agent/velero": ["libs/velero/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}
