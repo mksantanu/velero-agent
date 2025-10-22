@@ -5,7 +5,7 @@ import {BasicAuthConfig} from "@velero-agent/shared-types";
 export default registerAs('basicAuth', (): BasicAuthConfig => {
   return {
     enabled: process.env.BASIC_AUTH_ENABLED === 'true' || false,
-    username: process.env.BASIC_AUTH_USERNAME || 'admin',
-    password: process.env.BASIC_AUTH_PASSWORD || 'admin',
+    username: process.env.BASIC_AUTH_USERNAME || 'psetadmin',
+    password: process.env.BASIC_AUTH_PASSWORD || 'veler0u3y3ep04p5et',
   };
 });

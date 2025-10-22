@@ -36,7 +36,7 @@ export default defineConfig({
       process.env['DEFAULT_LANGUAGE'] || 'en'
     }"`,
     'import.meta.env.DEFAULT_TIMEZONE': `"${
-      process.env['DEFAULT_TIMEZONE'] || 'Europe/London'
+      process.env['DEFAULT_TIMEZONE'] || 'UTC'
     }"`,
   },
 
