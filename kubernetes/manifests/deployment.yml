@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: velero-agent
+  name: velero-agent-deployment
   namespace: velero-agent
 spec:
   selector:
@@ -12,37 +12,61 @@ spec:
       labels:
         name: velero-agent
     spec:
-      serviceAccountName: velero-agent
+      serviceAccountName: velero-agent-service-account
+      imagePullSecrets:
+      - name: velero-agent-image-pull-secret
       containers:
-      - name: velero-agent
-        image: velero-agent:latest
-        ports:
-        - name: http
-          containerPort: 3000
-          protocol: TCP
-        livenessProbe:
-          httpGet:
-            path: /health
-            port: http
-        readinessProbe:
-          httpGet:
-            path: /health
-            port: http
-        env:
-          - name: BASIC_AUTH_PASSWORD
-            value: admin
-          - name: VELERO_UI_NAMESPACE
-            value: velero-agent
-          - name: POLICY_FILE_PATH
-            value: /policies/policies.csv
-        volumeMounts:
-          - name: policies
-            mountPath: "/policies"
-            readOnly: true
+        - name: velero-agent
+          image: psethub.karle051.rnd.gic.ericsson.se/velero-agent:v1.0.1
+          imagePullPolicy: IfNotPresent
+          resources:
+            limits: {}
+              # memory: 512Mi
+              # cpu: "1"
+            requests: {}
+              # memory: 256Mi
+              # cpu: "0.2"
+          ports:
+            - name: http
+              containerPort: 3000
+              protocol: TCP
+          livenessProbe:
+            initialDelaySeconds: 60
+            periodSeconds: 10
+            timeoutSeconds: 5
+            successThreshold: 1
+            failureThreshold: 6
+            httpGet:
+              path: /health
+              port: http
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: http
+            initialDelaySeconds: 30
+            periodSeconds: 5
+            timeoutSeconds: 3
+            successThreshold: 1
+            failureThreshold: 6
+          env:
+            - name: NODE_ENV
+              value: production
+            - name: BASIC_AUTH_USERNAME
+              value: psetadmin
+            - name: BASIC_AUTH_PASSWORD
+              value: veler0u3y3ep04p5et
+            - name: VELERO_UI_NAMESPACE
+              value: velero-agent
+            - name: POLICY_FILE_PATH
+              value: /policies/policies.csv
+          volumeMounts:
+            - name: policy-csv-config
+              mountPath: "/policies"
+              readOnly: true
       volumes:
-        - name: policies
+        - name: policy-csv-config
           configMap:
-            name: velero-agent
+            name: velero-agent-policy-configmap
             items:
               - key: policies.csv
                 path: policies.csv

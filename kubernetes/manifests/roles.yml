@@ -1,7 +1,7 @@
 apiVersion: rbac.authorization.k8s.io/v1
 kind: Role
 metadata:
-  name: velero-agent
+  name: velero-agent-role
   namespace: velero-agent
 rules:
   - apiGroups: [""]
@@ -18,7 +18,7 @@ rules:
 apiVersion: rbac.authorization.k8s.io/v1
 kind: Role
 metadata:
-  name: velero-agent
+  name: velero-agent-role
   namespace: velero
 rules:
   - apiGroups: [""]
